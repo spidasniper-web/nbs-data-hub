@@ -2,64 +2,70 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-def scrape_nbs_league():
-    pages_to_scrape = {
-        "2026_Regular_Season": "https://nbsleague.wordpress.com/2026-regular-season-schedule/",
-        "2026_Preseason": "https://nbsleague.wordpress.com/2026-preseason-schedule/",
-        "2025_Playoffs": "https://nbsleague.wordpress.com/2025-playoff-schedule/",
-        "2024_25_Regular_Season": "https://nbsleague.wordpress.com/2025-regular-season-schedule/"
-    }
+# --- CONFIGURATION ---
+# All the schedule pages you provided
+SCHEDULE_PAGES = {
+    "2026_Regular_Season": "https://nbsleague.wordpress.com/2026-regular-season-schedule/",
+    "2026_Preseason": "https://nbsleague.wordpress.com/2026-preseason-schedule/",
+    "2025_Playoffs": "https://nbsleague.wordpress.com/2025-playoff-schedule/",
+    "2024_25_Regular_Season": "https://nbsleague.wordpress.com/2025-regular-season-schedule/"
+}
 
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    }
-    
-    all_league_data = {}
+# The standings pages
+STANDINGS_PAGES = {
+    "2026_Regular_Season": "https://nbsleague.wordpress.com/2026-standings/",
+    "2024_25_Regular_Season": "https://nbsleague.wordpress.com/2025-standings/"
+}
 
-    for season_name, url in pages_to_scrape.items():
-        print(f"Scouting {season_name}...")
+def scrape_data(urls_dict, output_filename, mode="schedule"):
+    all_data = {}
+
+    for season_name, url in urls_dict.items():
+        print(f"Scraping {mode} for {season_name}...")
         try:
-            response = requests.get(url, headers=headers)
-            soup = BeautifulSoup(response.content, 'html.parser')
+            response = requests.get(url, timeout=10)
+            soup = BeautifulSoup(response.text, 'html.parser')
+            table = soup.find('table')
             
-            season_games = []
-            # Find all tables on the page
-            tables = soup.find_all('table')
+            if not table:
+                print(f"  [!] No table found at {url}")
+                continue
             
-            for table in tables:
-                rows = table.find_all('tr')
-                for row in rows:
+            rows = table.find_all('tr')
+            season_entries = []
+            
+            if mode == "schedule":
+                # Schedule Logic (Assumes: Away, Home, AwayScore, HomeScore)
+                for row in rows[1:]:
                     cols = row.find_all('td')
-                    # Based on your HTML, we need at least 4 columns
                     if len(cols) >= 4:
-                        # Column 2 (index 2) has the Team names
-                        # We use get_text with a separator to handle the <br> tags
-                        teams_raw = cols[2].get_text(separator="|").split("|")
-                        teams = [t.strip() for t in teams_raw if t.strip()]
-                        
-                        # Column 3 (index 3) has the Scores
-                        scores_raw = cols[3].get_text(separator="|").split("|")
-                        scores = [s.strip() for s in scores_raw if s.strip()]
-                        
-                        if len(teams) >= 2 and len(scores) >= 2:
-                            season_games.append({
-                                "away_team": teams[0],
-                                "home_team": teams[1],
-                                "away_score": scores[0],
-                                "home_score": scores[1],
-                                "status": cols[4].get_text().strip() if len(cols) > 4 else "N/A"
-                            })
+                        season_entries.append({
+                            "away_team": cols[0].text.strip(),
+                            "home_team": cols[1].text.strip(),
+                            "away_score": cols[2].text.strip(),
+                            "home_score": cols[3].text.strip(),
+                            "status": "Final"
+                        })
+            else:
+                # Standings Logic (Grabs headers automatically)
+                headers = [th.text.strip() for th in rows[0].find_all(['th', 'td'])]
+                for row in rows[1:]:
+                    cols = row.find_all('td')
+                    if len(cols) > 0:
+                        entry = {headers[i]: col.text.strip() for i, col in enumerate(cols) if i < len(headers)}
+                        season_entries.append(entry)
             
-            all_league_data[season_name] = season_games
-            print(f"  > Found {len(season_games)} games.")
-
+            all_data[season_name] = season_entries
         except Exception as e:
-            print(f"  > Error scouting {season_name}: {e}")
+            print(f"  [!] Error scraping {url}: {e}")
 
-    return all_league_data
+    with open(output_filename, 'w') as f:
+        json.dump(all_data, f, indent=2)
+    print(f"Successfully saved to {output_filename}")
 
 if __name__ == "__main__":
-    data = scrape_nbs_league()
-    with open("nbs_data.json", "w") as f:
-        json.dump(data, f, indent=2)
-    print("\nLeague Scouting Complete! Check nbs_data.json")
+    # Run the schedule mission
+    scrape_data(SCHEDULE_PAGES, 'nbs_data.json', mode="schedule")
+    
+    # Run the standings mission
+    scrape_data(STANDINGS_PAGES, 'nbs_standings.json', mode="standings")
