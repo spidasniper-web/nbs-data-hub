@@ -1,1332 +1,191 @@
 {
   "2026_Regular_Season": [
     {
-      "away_team": "BOS",
-      "home_team": "TOR",
-      "away_score": "111",
-      "home_score": "87",
+      "away_team": "JAN28",
+      "home_team": "WED16:40",
+      "away_score": "PHI MIN",
+      "home_score": "114120",
       "status": "Final"
     },
     {
-      "away_team": "PHI",
-      "home_team": "MIN",
-      "away_score": "114",
-      "home_score": "120",
+      "away_team": "FEB2",
+      "home_team": "MON23:30",
+      "away_score": "HOU LV",
+      "home_score": "112109",
       "status": "Final"
     },
     {
-      "away_team": "HOU",
-      "home_team": "LV",
-      "away_score": "112",
-      "home_score": "109",
+      "away_team": "FEB4",
+      "home_team": "WED16:30",
+      "away_score": "LA WSH",
+      "home_score": "102110",
       "status": "Final"
     },
     {
-      "away_team": "LA",
-      "home_team": "WSH",
-      "away_score": "102",
-      "home_score": "110",
-      "status": "Final"
-    },
-    {
-      "away_team": "STO",
-      "home_team": "GS",
-      "away_score": "104",
-      "home_score": "94",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "DAL",
-      "away_score": "97",
-      "home_score": "115",
+      "away_team": "FEB4",
+      "home_team": "WED17:00",
+      "away_score": "STO GS",
+      "home_score": "10494",
       "status": "Final"
     }
   ],
   "2026_Preseason": [
     {
-      "away_team": "DEN",
-      "home_team": "STO",
-      "away_score": "100",
-      "home_score": "96",
+      "away_team": "JAN6",
+      "home_team": "TUE18:20",
+      "away_score": "WSH LV",
+      "home_score": "104106",
       "status": "Final"
     },
     {
-      "away_team": "WSH",
-      "home_team": "LV",
-      "away_score": "104",
-      "home_score": "106",
+      "away_team": "JAN9",
+      "home_team": "FRI12:00",
+      "away_score": "HOU MIN",
+      "home_score": "97109",
       "status": "Final"
     },
     {
-      "away_team": "HOU",
-      "home_team": "MIN",
-      "away_score": "97",
-      "home_score": "109",
+      "away_team": "JAN10",
+      "home_team": "SAT18:30",
+      "away_score": "LA GS",
+      "home_score": "105123",
       "status": "Final"
     },
     {
-      "away_team": "LA",
-      "home_team": "GS",
-      "away_score": "105",
-      "home_score": "123",
+      "away_team": "JAN11",
+      "home_team": "SUN11:30",
+      "away_score": "BOS PHI",
+      "home_score": "12393",
       "status": "Final"
     },
     {
-      "away_team": "BOS",
-      "home_team": "PHI",
-      "away_score": "123",
-      "home_score": "93",
+      "away_team": "JAN17",
+      "home_team": "SAT18:20",
+      "away_score": "DAL TOR",
+      "home_score": "117110",
       "status": "Final"
     },
     {
-      "away_team": "DAL",
-      "home_team": "TOR",
-      "away_score": "117",
-      "home_score": "110",
-      "status": "Final"
-    },
-    {
-      "away_team": "GS",
-      "home_team": "LA",
-      "away_score": "119",
-      "home_score": "116",
+      "away_team": "JAN20",
+      "home_team": "TUE00:50",
+      "away_score": "GS LA",
+      "home_score": "119116",
       "status": "Final"
     }
   ],
   "2025_Playoffs": [
     {
-      "away_team": "SEA",
-      "home_team": "LA",
-      "away_score": "117",
-      "home_score": "106",
+      "away_team": "SEP21",
+      "home_team": "SUN11:00",
+      "away_score": "PHI DAL",
+      "home_score": "89118",
       "status": "Final"
     },
     {
-      "away_team": "PHI",
-      "home_team": "DAL",
-      "away_score": "89",
-      "home_score": "118",
+      "away_team": "SEP26",
+      "home_team": "FRI20:00",
+      "away_score": "SF BOS",
+      "home_score": "10276",
       "status": "Final"
     },
     {
-      "away_team": "SF",
-      "home_team": "BOS",
-      "away_score": "102",
-      "home_score": "76",
+      "away_team": "SEP28",
+      "home_team": "SUN18:00",
+      "away_score": "MIA VAN",
+      "home_score": "9597",
       "status": "Final"
     },
     {
-      "away_team": "MIA",
-      "home_team": "VAN",
-      "away_score": "95",
-      "home_score": "97",
+      "away_team": "SEP29",
+      "home_team": "MON17:30",
+      "away_score": "DEN TOR",
+      "home_score": "102111",
       "status": "Final"
     },
     {
-      "away_team": "DEN",
-      "home_team": "TOR",
-      "away_score": "102",
-      "home_score": "111",
+      "away_team": "OCT1",
+      "home_team": "WED10:30",
+      "away_score": "WSH MXC",
+      "home_score": "80106",
       "status": "Final"
     },
     {
-      "away_team": "WSH",
-      "home_team": "MXC",
-      "away_score": "80",
-      "home_score": "106",
+      "away_team": "OCT4",
+      "home_team": "SAT06:00",
+      "away_score": "OTT LV",
+      "home_score": "81111",
       "status": "Final"
     },
     {
-      "away_team": "OTT",
-      "home_team": "LV",
-      "away_score": "81",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "ANC",
-      "away_score": "117",
-      "home_score": "113",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "DAL",
-      "away_score": "106",
-      "home_score": "105",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "VAN",
-      "away_score": "105",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "TOR",
-      "away_score": "111",
-      "home_score": "115",
-      "status": "FinalOT"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "LV",
-      "away_score": "85",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "VAN",
-      "away_score": "81",
-      "home_score": "136",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "TOR",
-      "away_score": "99",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "TOR",
-      "away_score": "104",
-      "home_score": "111",
+      "away_team": "OCT4",
+      "home_team": "SAT18:30",
+      "away_score": "HOU ANC",
+      "home_score": "117113",
       "status": "Final"
     }
   ],
   "2024_25_Regular_Season": [
     {
-      "away_team": "MON",
-      "home_team": "DEN",
-      "away_score": "98",
-      "home_score": "103",
+      "away_team": "AUG30",
+      "home_team": "FRI21:00",
+      "away_score": "MIA DAL",
+      "home_score": "100114",
       "status": "Final"
     },
     {
-      "away_team": "MIA",
-      "home_team": "DAL",
-      "away_score": "100",
-      "home_score": "114",
+      "away_team": "AUG31",
+      "home_team": "SAT17:00",
+      "away_score": "SF HOU",
+      "home_score": "108125",
       "status": "Final"
     },
     {
-      "away_team": "SF",
-      "home_team": "HOU",
-      "away_score": "108",
-      "home_score": "125",
+      "away_team": "SEP6",
+      "home_team": "FRI17:20",
+      "away_score": "LA TOR",
+      "home_score": "116127",
       "status": "Final"
     },
     {
-      "away_team": "LA",
-      "home_team": "TOR",
-      "away_score": "116",
-      "home_score": "127",
+      "away_team": "SEP7",
+      "home_team": "SAT17:20",
+      "away_score": "WSH LV",
+      "home_score": "102121",
       "status": "Final"
     },
     {
-      "away_team": "WSH",
-      "home_team": "LV",
-      "away_score": "102",
-      "home_score": "121",
+      "away_team": "SEP9",
+      "home_team": "MON16:50",
+      "away_score": "SEA ANC",
+      "home_score": "86122",
       "status": "Final"
     },
     {
-      "away_team": "SEA",
-      "home_team": "ANC",
-      "away_score": "86",
-      "home_score": "122",
+      "away_team": "SEP16",
+      "home_team": "MON17:00",
+      "away_score": "NY MXC",
+      "home_score": "95109",
       "status": "Final"
     },
     {
-      "away_team": "NY",
-      "home_team": "MXC",
-      "away_score": "95",
-      "home_score": "109",
+      "away_team": "SEP19",
+      "home_team": "THU16:30",
+      "away_score": "MIN BOS",
+      "home_score": "94103",
       "status": "Final"
     },
     {
-      "away_team": "MIN",
-      "home_team": "BOS",
-      "away_score": "94",
-      "home_score": "103",
+      "away_team": "SEP22",
+      "home_team": "SUN16:30",
+      "away_score": "PHX OTT",
+      "home_score": "9792",
       "status": "Final"
     },
     {
-      "away_team": "PHX",
-      "home_team": "OTT",
-      "away_score": "97",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "VAN",
-      "away_score": "112",
-      "home_score": "117",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "SEA",
-      "away_score": "79",
-      "home_score": "105",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "SF",
-      "away_score": "94",
-      "home_score": "107",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "BOS",
-      "away_score": "96",
-      "home_score": "110",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "LA",
-      "away_score": "86",
-      "home_score": "112",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "PHI",
-      "away_score": "105",
-      "home_score": "100",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "LV",
-      "away_score": "105",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "TOR",
-      "away_score": "120",
-      "home_score": "124",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "WSH",
-      "away_score": "121",
-      "home_score": "127",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "MIA",
-      "away_score": "108",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "VAN",
-      "away_score": "108",
-      "home_score": "130",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "PHX",
-      "away_score": "103",
-      "home_score": "100",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "PHI",
-      "away_score": "99",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "MIN",
-      "away_score": "97",
-      "home_score": "79",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "DAL",
-      "away_score": "107",
-      "home_score": "121",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "LV",
-      "away_score": "86",
-      "home_score": "98",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "HOU",
-      "away_score": "91",
-      "home_score": "98",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "MXC",
-      "away_score": "120",
-      "home_score": "115",
-      "status": "Final"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "DEN",
-      "away_score": "80",
-      "home_score": "74",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "NY",
-      "away_score": "90",
-      "home_score": "123",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "HOU",
-      "away_score": "108",
-      "home_score": "119",
-      "status": "FinalOT"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "PHI",
-      "away_score": "108",
-      "home_score": "105",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "PHX",
-      "away_score": "101",
-      "home_score": "87",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "PHI",
-      "away_score": "111",
-      "home_score": "113",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "MON",
-      "away_score": "103",
-      "home_score": "101",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "WSH",
-      "away_score": "101",
-      "home_score": "108",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "VAN",
-      "away_score": "89",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "OTT",
-      "away_score": "104",
-      "home_score": "107",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "MIA",
-      "away_score": "108",
-      "home_score": "101",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "TOR",
-      "away_score": "100",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "LA",
-      "away_score": "116",
-      "home_score": "114",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "OTT",
-      "away_score": "103",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "SF",
-      "away_score": "98",
-      "home_score": "118",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "DAL",
-      "away_score": "98",
-      "home_score": "93",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "NY",
-      "away_score": "119",
-      "home_score": "106",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "SEA",
-      "away_score": "127",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "MIN",
-      "away_score": "105",
-      "home_score": "118",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "MIA",
-      "away_score": "121",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "MXC",
-      "away_score": "85",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "WSH",
-      "away_score": "92",
-      "home_score": "70",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "OTT",
-      "away_score": "113",
-      "home_score": "108",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "MIA",
-      "away_score": "112",
-      "home_score": "99",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "LA",
-      "away_score": "93",
-      "home_score": "91",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "PHI",
-      "away_score": "99",
-      "home_score": "106",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "LV",
-      "away_score": "88",
-      "home_score": "113",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "PHX",
-      "away_score": "112",
-      "home_score": "108",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "HOU",
-      "away_score": "110",
-      "home_score": "100",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "SF",
-      "away_score": "93",
-      "home_score": "86",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "SEA",
-      "away_score": "103",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "DAL",
-      "away_score": "100",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "MON",
-      "away_score": "103",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "SEA",
-      "away_score": "97",
-      "home_score": "114",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "TOR",
-      "away_score": "101",
-      "home_score": "103",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "DEN",
-      "away_score": "89",
-      "home_score": "77",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "SF",
-      "away_score": "86",
-      "home_score": "113",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "NY",
-      "away_score": "108",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "MIA",
-      "away_score": "95",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "WSH",
-      "away_score": "113",
-      "home_score": "106",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "MON",
-      "away_score": "113",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "BOS",
-      "away_score": "85",
-      "home_score": "95",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "TOR",
-      "away_score": "108",
-      "home_score": "115",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "OTT",
-      "away_score": "102",
-      "home_score": "94",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "LA",
-      "away_score": "121",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "MIN",
-      "away_score": "102",
-      "home_score": "117",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "WSH",
-      "away_score": "105",
-      "home_score": "112",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "LA",
-      "away_score": "105",
-      "home_score": "118",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "MXC",
-      "away_score": "104",
-      "home_score": "114",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "MON",
-      "away_score": "111",
-      "home_score": "103",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "ANC",
-      "away_score": "114",
-      "home_score": "108",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "HOU",
-      "away_score": "119",
-      "home_score": "144",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "NY",
-      "away_score": "109",
-      "home_score": "91",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "OTT",
-      "away_score": "114",
-      "home_score": "113",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "DEN",
-      "away_score": "98",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "PHI",
-      "away_score": "94",
-      "home_score": "109",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "MIN",
-      "away_score": "94",
-      "home_score": "84",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "MON",
-      "away_score": "124",
-      "home_score": "120",
-      "status": "Final"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "MXC",
-      "away_score": "113",
-      "home_score": "112",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "HOU",
-      "away_score": "114",
-      "home_score": "115",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "TOR",
-      "away_score": "95",
-      "home_score": "79",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "NY",
-      "away_score": "109",
-      "home_score": "104",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "DEN",
-      "away_score": "75",
-      "home_score": "82",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "VAN",
-      "away_score": "111",
-      "home_score": "95",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "LA",
-      "away_score": "104",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "MIA",
-      "away_score": "108",
-      "home_score": "120",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "WSH",
-      "away_score": "127",
-      "home_score": "118",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "LV",
-      "away_score": "103",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "MON",
-      "away_score": "118",
-      "home_score": "121",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "DAL",
-      "away_score": "110",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "ANC",
-      "away_score": "109",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "PHX",
-      "away_score": "91",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "MIN",
-      "away_score": "118",
-      "home_score": "108",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "DEN",
-      "away_score": "120",
-      "home_score": "113",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "PHX",
-      "away_score": "89",
-      "home_score": "90",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "BOS",
-      "away_score": "90",
-      "home_score": "105",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "PHI",
-      "away_score": "96",
-      "home_score": "83",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "ANC",
-      "away_score": "149",
-      "home_score": "124",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "HOU",
-      "away_score": "105",
-      "home_score": "131",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "NY",
-      "away_score": "108",
-      "home_score": "115",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "SEA",
-      "away_score": "106",
-      "home_score": "89",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "MIN",
-      "away_score": "112",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "VAN",
-      "away_score": "113",
-      "home_score": "123",
-      "status": "Final"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "SF",
-      "away_score": "104",
-      "home_score": "82",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "NY",
-      "away_score": "104",
-      "home_score": "106",
-      "status": "Final"
-    },
-    {
-      "away_team": "LEGACY",
-      "home_team": "CLASSIC",
-      "away_score": "125",
-      "home_score": "115",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "SF",
-      "away_score": "98",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "LA",
-      "away_score": "108",
-      "home_score": "110",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "MXC",
-      "away_score": "120",
-      "home_score": "136",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "VAN",
-      "away_score": "107",
-      "home_score": "137",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "TOR",
-      "away_score": "115",
-      "home_score": "123",
-      "status": "FinalOT"
-    },
-    {
-      "away_team": "ANC",
-      "home_team": "BOS",
-      "away_score": "99",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "DEN",
-      "away_score": "107",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "SEA",
-      "away_score": "99",
-      "home_score": "118",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "ANC",
-      "away_score": "92",
-      "home_score": "117",
-      "status": "Final"
-    },
-    {
-      "away_team": "DAL",
-      "home_team": "PHX",
-      "away_score": "90",
-      "home_score": "114",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "LV",
-      "away_score": "101",
-      "home_score": "87",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "SEA",
-      "away_score": "105",
-      "home_score": "120",
-      "status": "Final"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "BOS",
-      "away_score": "117",
-      "home_score": "109",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "MIA",
-      "away_score": "109",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "NY",
-      "away_score": "115",
-      "home_score": "105",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "MON",
-      "away_score": "114",
-      "home_score": "107",
-      "status": "Final"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "MXC",
-      "away_score": "91",
-      "home_score": "90",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "SF",
-      "away_score": "111",
-      "home_score": "98",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "TOR",
-      "away_score": "92",
-      "home_score": "115",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "WSH",
-      "away_score": "107",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "DAL",
-      "away_score": "113",
-      "home_score": "87",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIN",
-      "home_team": "LV",
-      "away_score": "80",
-      "home_score": "87",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "ANC",
-      "away_score": "110",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "BOS",
-      "home_team": "SEA",
-      "away_score": "83",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "HOU",
-      "away_score": "139",
-      "home_score": "141",
-      "status": "FinalOT"
-    },
-    {
-      "away_team": "OTT",
-      "home_team": "LA",
-      "away_score": "95",
-      "home_score": "109",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "VAN",
-      "away_score": "112",
-      "home_score": "107",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "DEN",
-      "away_score": "116",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "PHX",
-      "away_score": "100",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHI",
-      "home_team": "DAL",
-      "away_score": "85",
-      "home_score": "101",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "MON",
-      "away_score": "113",
-      "home_score": "110",
-      "status": "Final"
-    },
-    {
-      "away_team": "WSH",
-      "home_team": "MIA",
-      "away_score": "91",
-      "home_score": "114",
-      "status": "Final"
-    },
-    {
-      "away_team": "MXC",
-      "home_team": "BOS",
-      "away_score": "106",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "VAN",
-      "home_team": "ANC",
-      "away_score": "129",
-      "home_score": "116",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "OTT",
-      "away_score": "109",
-      "home_score": "119",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "MIN",
-      "away_score": "112",
-      "home_score": "97",
-      "status": "Final"
-    },
-    {
-      "away_team": "LV",
-      "home_team": "SF",
-      "away_score": "95",
-      "home_score": "92",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "PHX",
-      "away_score": "108",
-      "home_score": "101",
-      "status": "Final"
-    },
-    {
-      "away_team": "MON",
-      "home_team": "BOS",
-      "away_score": "95",
-      "home_score": "103",
-      "status": "Final"
-    },
-    {
-      "away_team": "DEN",
-      "home_team": "PHI",
-      "away_score": "91",
-      "home_score": "110",
-      "status": "Final"
-    },
-    {
-      "away_team": "HOU",
-      "home_team": "DAL",
-      "away_score": "91",
-      "home_score": "99",
-      "status": "Final"
-    },
-    {
-      "away_team": "TOR",
-      "home_team": "MXC",
-      "away_score": "104",
-      "home_score": "102",
-      "status": "Final"
-    },
-    {
-      "away_team": "NY",
-      "home_team": "ANC",
-      "away_score": "113",
-      "home_score": "137",
-      "status": "Final"
-    },
-    {
-      "away_team": "PHX",
-      "home_team": "WSH",
-      "away_score": "87",
-      "home_score": "101",
-      "status": "Final"
-    },
-    {
-      "away_team": "LA",
-      "home_team": "MIN",
-      "away_score": "114",
-      "home_score": "96",
-      "status": "Final"
-    },
-    {
-      "away_team": "SF",
-      "home_team": "OTT",
-      "away_score": "90",
-      "home_score": "111",
-      "status": "Final"
-    },
-    {
-      "away_team": "SEA",
-      "home_team": "VAN",
-      "away_score": "102",
-      "home_score": "125",
-      "status": "Final"
-    },
-    {
-      "away_team": "MIA",
-      "home_team": "LV",
-      "away_score": "100",
-      "home_score": "109",
+      "away_team": "SEP24",
+      "home_team": "TUE16:30",
+      "away_score": "PHI VAN",
+      "home_score": "112117",
       "status": "Final"
     }
   ]
