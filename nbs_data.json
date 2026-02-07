@@ -43,6 +43,164 @@
       "status": "Final"
     }
   ],
+  "2026_Preseason": [
+    {
+      "away_team": "DEN",
+      "home_team": "STO",
+      "away_score": "100",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "away_team": "WSH",
+      "home_team": "LV",
+      "away_score": "104",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "away_team": "HOU",
+      "home_team": "MIN",
+      "away_score": "97",
+      "home_score": "109",
+      "status": "Final"
+    },
+    {
+      "away_team": "LA",
+      "home_team": "GS",
+      "away_score": "105",
+      "home_score": "123",
+      "status": "Final"
+    },
+    {
+      "away_team": "BOS",
+      "home_team": "PHI",
+      "away_score": "123",
+      "home_score": "93",
+      "status": "Final"
+    },
+    {
+      "away_team": "DAL",
+      "home_team": "TOR",
+      "away_score": "117",
+      "home_score": "110",
+      "status": "Final"
+    },
+    {
+      "away_team": "GS",
+      "home_team": "LA",
+      "away_score": "119",
+      "home_score": "116",
+      "status": "Final"
+    }
+  ],
+  "2025_Playoffs": [
+    {
+      "away_team": "SEA",
+      "home_team": "LA",
+      "away_score": "117",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "away_team": "PHI",
+      "home_team": "DAL",
+      "away_score": "89",
+      "home_score": "118",
+      "status": "Final"
+    },
+    {
+      "away_team": "SF",
+      "home_team": "BOS",
+      "away_score": "102",
+      "home_score": "76",
+      "status": "Final"
+    },
+    {
+      "away_team": "MIA",
+      "home_team": "VAN",
+      "away_score": "95",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "away_team": "DEN",
+      "home_team": "TOR",
+      "away_score": "102",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "away_team": "WSH",
+      "home_team": "MXC",
+      "away_score": "80",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "away_team": "OTT",
+      "home_team": "LV",
+      "away_score": "81",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "away_team": "HOU",
+      "home_team": "ANC",
+      "away_score": "117",
+      "home_score": "113",
+      "status": "Final"
+    },
+    {
+      "away_team": "SEA",
+      "home_team": "DAL",
+      "away_score": "106",
+      "home_score": "105",
+      "status": "Final"
+    },
+    {
+      "away_team": "SF",
+      "home_team": "VAN",
+      "away_score": "105",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "away_team": "MXC",
+      "home_team": "TOR",
+      "away_score": "111",
+      "home_score": "115",
+      "status": "FinalOT"
+    },
+    {
+      "away_team": "HOU",
+      "home_team": "LV",
+      "away_score": "85",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "away_team": "SEA",
+      "home_team": "VAN",
+      "away_score": "81",
+      "home_score": "136",
+      "status": "Final"
+    },
+    {
+      "away_team": "LV",
+      "home_team": "TOR",
+      "away_score": "99",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "away_team": "VAN",
+      "home_team": "TOR",
+      "away_score": "104",
+      "home_score": "111",
+      "status": "Final"
+    }
+  ],
   "2024_25_Regular_Season": [
     {
       "away_team": "MON",
