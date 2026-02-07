@@ -5,8 +5,11 @@
       "time": "MON 21:00",
       "away_team": "BOS",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "111",
       "home_score": "87",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/26/2026-nbs-regular-season-gameday-1-boston-clovers-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -14,8 +17,11 @@
       "time": "WED 16:40",
       "away_team": "PHI",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
       "away_score": "114",
       "home_score": "120",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/28/2026-nbs-regular-season-gameday-1-philadelphia-liberty-vs-minneapolis-icefangs/",
       "status": "Final"
     },
     {
@@ -23,8 +29,11 @@
       "time": "MON 23:30",
       "away_team": "HOU",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "112",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2026/02/02/2026-nbs-regular-season-gameday-1-houston-apollos-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -32,8 +41,11 @@
       "time": "WED 16:30",
       "away_team": "LA",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "102",
       "home_score": "110",
+      "post_url": "https://nbsleague.wordpress.com/2026/02/04/2026-nbs-regular-season-gameday-1-los-angeles-lowriders-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -41,8 +53,11 @@
       "time": "WED 17:00",
       "away_team": "STO",
       "home_team": "GS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
       "away_score": "104",
       "home_score": "94",
+      "post_url": "https://nbsleague.wordpress.com/2026/02/04/2026-nbs-regular-season-gameday-1-stockholm-glaciers-vs-golden-state-vantas/",
       "status": "Final"
     },
     {
@@ -50,8 +65,11 @@
       "time": "SAT 06:00",
       "away_team": "TOR",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
       "away_score": "97",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2026/02/07/2026-nbs-regular-season-gameday-2-toronto-raccoons-vs-dallas-novas/",
       "status": "Final"
     },
     {
@@ -59,8 +77,11 @@
       "time": "",
       "away_team": "LV",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     },
     {
@@ -68,8 +89,11 @@
       "time": "",
       "away_team": "HOU",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     },
     {
@@ -77,8 +101,11 @@
       "time": "",
       "away_team": "STO",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     },
     {
@@ -86,8 +113,11 @@
       "time": "",
       "away_team": "PHI",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     },
     {
@@ -95,8 +125,11 @@
       "time": "",
       "away_team": "LV",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     },
     {
@@ -104,8 +137,11 @@
       "time": "",
       "away_team": "MIN",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     },
     {
@@ -113,8 +149,11 @@
       "time": "",
       "away_team": "DAL",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
       "away_score": "0",
       "home_score": "0",
+      "post_url": "",
       "status": ""
     }
   ],
@@ -124,8 +163,11 @@
       "time": "SUN 12:00",
       "away_team": "DEN",
       "home_team": "STO",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
       "away_score": "100",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/12/28/2026-nbs-preseason-denver-peaks-vs-stockholm-glaciers/",
       "status": "Final"
     },
     {
@@ -133,8 +175,11 @@
       "time": "TUE 18:20",
       "away_team": "WSH",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "104",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/06/2026-nbs-preseason-washington-monuments-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -142,8 +187,11 @@
       "time": "FRI 12:00",
       "away_team": "HOU",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
       "away_score": "97",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/09/2026-nbs-preseason-houston-apollos-vs-minneapolis-icefangs/",
       "status": "Final"
     },
     {
@@ -151,8 +199,11 @@
       "time": "SAT 18:30",
       "away_team": "LA",
       "home_team": "GS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
       "away_score": "105",
       "home_score": "123",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/10/2026-nbs-preseason-los-angeles-lowriders-vs-golden-state-vantas/",
       "status": "Final"
     },
     {
@@ -160,8 +211,11 @@
       "time": "SUN 11:30",
       "away_team": "BOS",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
       "away_score": "123",
       "home_score": "93",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/11/2026-nbs-preseason-boston-clovers-vs-philadelphia-liberty/",
       "status": "Final"
     },
     {
@@ -169,8 +223,11 @@
       "time": "SAT 18:20",
       "away_team": "DAL",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "117",
       "home_score": "110",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/17/2026-nbs-preseason-dallas-novas-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -178,8 +235,11 @@
       "time": "TUE 00:50",
       "away_team": "GS",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "119",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2026/01/20/2026-nbs-preseason-golden-state-vantas-vs-los-angeles-lowriders/",
       "status": "Final"
     }
   ],
@@ -189,8 +249,11 @@
       "time": "SAT 19:50",
       "away_team": "SEA",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "117",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/20/2025-nbs-playoffs-first-round-seattle-symphony-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -198,8 +261,11 @@
       "time": "SUN 11:00",
       "away_team": "PHI",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "89",
       "home_score": "118",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/21/2025-nbs-playoffs-first-round-philadelphia-cheesesteaks-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -207,8 +273,11 @@
       "time": "FRI 20:00",
       "away_team": "SF",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "102",
       "home_score": "76",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/26/2025-nbs-playoffs-first-round-san-francisco-unicorns-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -216,8 +285,11 @@
       "time": "SUN 18:00",
       "away_team": "MIA",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "95",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/28/2025-nbs-playoffs-first-round-miami-cyclones-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -225,8 +297,11 @@
       "time": "MON 17:30",
       "away_team": "DEN",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "102",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/29/2025-nbs-playoffs-first-round-denver-high-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -234,8 +309,11 @@
       "time": "WED 10:30",
       "away_team": "WSH",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "80",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/01/2025-nbs-playoffs-first-round-washington-monuments-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -243,8 +321,11 @@
       "time": "SAT 06:00",
       "away_team": "OTT",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "81",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/04/2025-nbs-playoffs-first-round-ottawa-spiders-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -252,8 +333,11 @@
       "time": "SAT 18:30",
       "away_team": "HOU",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "117",
       "home_score": "113",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/04/2025-nbs-playoffs-first-round-houston-apollos-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -261,8 +345,11 @@
       "time": "SUN 17:30",
       "away_team": "SEA",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "106",
       "home_score": "105",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/05/2025-nbs-classic-conference-semifinals-seattle-symphony-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -270,8 +357,11 @@
       "time": "MON 17:50",
       "away_team": "SF",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "105",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/06/2025-nbs-classic-conference-semifinals-san-francisco-unicorns-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -279,8 +369,11 @@
       "time": "THU 18:30",
       "away_team": "MXC",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "111",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/09/2025-nbs-legacy-conference-semifinals-mexico-city-aztecs-vs-toronto-raccoons/",
       "status": "FinalOT"
     },
     {
@@ -288,8 +381,11 @@
       "time": "SAT 05:20",
       "away_team": "HOU",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "85",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/11/2025-nbs-legacy-conference-semifinals-houston-apollos-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -297,8 +393,11 @@
       "time": "SUN 17:30",
       "away_team": "SEA",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "81",
       "home_score": "136",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/12/2025-nbs-classic-conference-finals-seattle-symphony-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -306,8 +405,11 @@
       "time": "SAT 18:30",
       "away_team": "LV",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "99",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/18/2025-nbs-legacy-conference-finals-las-vegas-blue-chips-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -315,8 +417,11 @@
       "time": "THU 17:00",
       "away_team": "VAN",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "104",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/10/23/2025-nbs-finals-vancouver-whalers-vs-toronto-raccoons/",
       "status": "Final"
     }
   ],
@@ -326,8 +431,11 @@
       "time": "WED 16:30",
       "away_team": "MON",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "98",
       "home_score": "103",
+      "post_url": "https://nbsleague.wordpress.com/2024/08/19/2024-25-nbs-regular-season-g1-montreal-beavers-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -335,8 +443,11 @@
       "time": "FRI 21:00",
       "away_team": "MIA",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "100",
       "home_score": "114",
+      "post_url": "https://nbsleague.wordpress.com/2024/08/26/2024-25-nbs-regular-season-g2-miami-cyclones-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -344,8 +455,11 @@
       "time": "SAT 17:00",
       "away_team": "SF",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "108",
       "home_score": "125",
+      "post_url": "https://nbsleague.wordpress.com/2024/08/30/2024-25-nbs-regular-season-g3-san-francisco-unicorns-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -353,8 +467,11 @@
       "time": "FRI 17:20",
       "away_team": "LA",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "116",
       "home_score": "127",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/04/2024-25-nbs-regular-season-gameday-1-los-angeles-lowriders-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -362,8 +479,11 @@
       "time": "SAT 17:20",
       "away_team": "WSH",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "102",
       "home_score": "121",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/06/2024-25-nbs-regular-season-gameday-1-washington-monuments-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -371,8 +491,11 @@
       "time": "MON 16:50",
       "away_team": "SEA",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "86",
       "home_score": "122",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/09/2024-25-nbs-regular-season-gameday-1-seattle-symphony-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -380,8 +503,11 @@
       "time": "MON 17:00",
       "away_team": "NY",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "95",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/14/2024-25-nbs-regular-season-gameday-1-new-york-bankers-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -389,8 +515,11 @@
       "time": "THU 16:30",
       "away_team": "MIN",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "94",
       "home_score": "103",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/19/2024-25-nbs-regular-season-gameday-1-minneapolis-blizzard-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -398,8 +527,11 @@
       "time": "SUN 16:30",
       "away_team": "PHX",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "97",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/22/2024-25-nbs-regular-season-gameday-1-phoenix-vultures-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -407,8 +539,11 @@
       "time": "TUE 16:30",
       "away_team": "PHI",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "112",
       "home_score": "117",
+      "post_url": "https://nbsleague.wordpress.com/2024/09/24/2024-25-nbs-regular-season-gameday-1-philadelphia-cheesesteaks-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -416,8 +551,11 @@
       "time": "FRI 17:30",
       "away_team": "DAL",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "79",
       "home_score": "105",
+      "post_url": "https://nbsleague.wordpress.com/2024/10/25/2024-25-nbs-regular-season-gameday-2-dallas-snipers-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -425,8 +563,11 @@
       "time": "SAT 17:30",
       "away_team": "MXC",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "94",
       "home_score": "107",
+      "post_url": "https://nbsleague.wordpress.com/2024/10/26/2024-25-nbs-regular-season-gameday-2-mexico-city-aztecs-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -434,8 +575,11 @@
       "time": "SAT 22:00",
       "away_team": "NY",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "96",
       "home_score": "110",
+      "post_url": "https://nbsleague.wordpress.com/2024/10/26/2024-25-nbs-regular-season-gameday-2-new-york-bankers-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -443,8 +587,11 @@
       "time": "WED 17:00",
       "away_team": "VAN",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "86",
       "home_score": "112",
+      "post_url": "https://nbsleague.wordpress.com/2024/10/30/2024-25-nbs-regular-season-gameday-2-vancouver-whalers-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -452,8 +599,11 @@
       "time": "FRI 17:00",
       "away_team": "ANC",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "105",
       "home_score": "100",
+      "post_url": "https://nbsleague.wordpress.com/2024/11/01/2024-25-nbs-regular-season-gameday-2-anchorage-glaciers-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -461,8 +611,11 @@
       "time": "SAT 17:10",
       "away_team": "PHX",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "105",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2024/11/02/2024-25-nbs-regular-season-gameday-2-phoenix-vultures-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -470,8 +623,11 @@
       "time": "SAT 18:30",
       "away_team": "HOU",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "120",
       "home_score": "124",
+      "post_url": "https://nbsleague.wordpress.com/2024/11/09/2024-25-nbs-regular-season-gameday-2-houston-apollos-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -479,8 +635,11 @@
       "time": "SAT 18:00",
       "away_team": "MIN",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "121",
       "home_score": "127",
+      "post_url": "https://nbsleague.wordpress.com/2024/11/16/2024-25-nbs-regular-season-gameday-2-minneapolis-blizzard-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -488,8 +647,11 @@
       "time": "THU 16:00",
       "away_team": "DEN",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "108",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2024/11/21/2024-25-nbs-regular-season-gameday-2-denver-high-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -497,8 +659,11 @@
       "time": "WED 16:30",
       "away_team": "WSH",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "108",
       "home_score": "130",
+      "post_url": "https://nbsleague.wordpress.com/2024/11/27/2024-25-nbs-regular-season-gameday-3-washington-monuments-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -506,8 +671,11 @@
       "time": "FRI 19:00",
       "away_team": "MIA",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "103",
       "home_score": "100",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/06/2024-25-nbs-regular-season-gameday-3-miami-cyclones-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -515,8 +683,11 @@
       "time": "THU 16:30",
       "away_team": "MON",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "99",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/12/2024-25-nbs-regular-season-gameday-3-montreal-beavers-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -524,8 +695,11 @@
       "time": "FRI 16:40",
       "away_team": "ANC",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "97",
       "home_score": "79",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/17/2024-25-nbs-regular-season-gameday-3-anchorage-glaciers-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -533,8 +707,11 @@
       "time": "SAT 16:00",
       "away_team": "TOR",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "107",
       "home_score": "121",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/21/2024-25-nbs-regular-season-gameday-3-toronto-raccoons-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -542,8 +719,11 @@
       "time": "SUN 15:30",
       "away_team": "OTT",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "86",
       "home_score": "98",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/22/2024-25-nbs-regular-season-gameday-3-ottawa-spiders-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -551,8 +731,11 @@
       "time": "WED 16:45",
       "away_team": "BOS",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "91",
       "home_score": "98",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/25/2024-25-nbs-regular-season-gameday-3-boston-massacre-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -560,8 +743,11 @@
       "time": "SAT 16:30",
       "away_team": "SEA",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "120",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/28/2024-25-nbs-regular-season-gameday-3-seattle-symphony-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -569,8 +755,11 @@
       "time": "TUE 17:30",
       "away_team": "LA",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "80",
       "home_score": "74",
+      "post_url": "https://nbsleague.wordpress.com/2024/12/31/2024-25-nbs-regular-season-gameday-3-los-angeles-lowriders-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -578,8 +767,11 @@
       "time": "SAT 15:30",
       "away_team": "MON",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "90",
       "home_score": "123",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/04/2024-25-nbs-regular-season-gameday-4-montreal-beavers-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -587,8 +779,11 @@
       "time": "WED 16:30",
       "away_team": "PHX",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "108",
       "home_score": "119",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/08/2024-25-nbs-regular-season-gameday-4-phoenix-vultures-vs-houston-apollos/",
       "status": "FinalOT"
     },
     {
@@ -596,8 +791,11 @@
       "time": "SAT 15:30",
       "away_team": "LA",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "108",
       "home_score": "105",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/11/2024-25-nbs-regular-season-gameday-4-los-angeles-lowriders-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -605,8 +803,11 @@
       "time": "MON 15:30",
       "away_team": "MXC",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "101",
       "home_score": "87",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/13/2024-25-nbs-regular-season-gameday-5-mexico-city-aztecs-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -614,8 +815,11 @@
       "time": "SAT 17:20",
       "away_team": "NY",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "111",
       "home_score": "113",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/18/2024-25-nbs-regular-season-gameday-5-new-york-bankers-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -623,8 +827,11 @@
       "time": "MON 15:30",
       "away_team": "SEA",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "103",
       "home_score": "101",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/20/2024-25-nbs-regular-season-gameday-5-seattle-symphony-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -632,8 +839,11 @@
       "time": "TUE 16:45",
       "away_team": "ANC",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "101",
       "home_score": "108",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/21/2024-25-nbs-regular-season-gameday-5-anchorage-glaciers-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -641,8 +851,11 @@
       "time": "WED 16:40",
       "away_team": "BOS",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "89",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/22/2024-25-nbs-regular-season-gameday-5-boston-massacre-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -650,8 +863,11 @@
       "time": "SAT 16:30",
       "away_team": "DEN",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "104",
       "home_score": "107",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/25/2024-25-nbs-regular-season-gameday-5-denver-high-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -659,8 +875,11 @@
       "time": "SUN 18:00",
       "away_team": "SF",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "108",
       "home_score": "101",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/26/2024-25-nbs-regular-season-gameday-5-san-francisco-unicorns-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -668,8 +887,11 @@
       "time": "TUE 18:30",
       "away_team": "LV",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "100",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/28/2024-25-nbs-regular-season-gameday-5-las-vegas-blue-chips-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -677,8 +899,11 @@
       "time": "WED 17:30",
       "away_team": "DAL",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "116",
       "home_score": "114",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/29/2024-25-nbs-regular-season-gameday-5-dallas-snipers-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -686,8 +911,11 @@
       "time": "THU 16:30",
       "away_team": "WSH",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "103",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/30/2024-25-nbs-regular-season-gameday-6-washington-monuments-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -695,8 +923,11 @@
       "time": "FRI 17:00",
       "away_team": "VAN",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "98",
       "home_score": "118",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-vancouver-whalers-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -704,8 +935,11 @@
       "time": "MON 17:30",
       "away_team": "ANC",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "98",
       "home_score": "93",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-anchorage-glaciers-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -713,8 +947,11 @@
       "time": "MON 17:30",
       "away_team": "LV",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "119",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-las-vegas-blue-chips-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -722,8 +959,11 @@
       "time": "MON 17:30",
       "away_team": "PHI",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "127",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-philadelphia-cheesesteaks-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -731,8 +971,11 @@
       "time": "MON 17:30",
       "away_team": "MON",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "105",
       "home_score": "118",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-montreal-beavers-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -740,8 +983,11 @@
       "time": "MON 17:30",
       "away_team": "HOU",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "121",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-houston-apollos-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -749,8 +995,11 @@
       "time": "MON 17:30",
       "away_team": "DEN",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "85",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/01/31/2024-25-nbs-regular-season-gameday-6-denver-high-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -758,8 +1007,11 @@
       "time": "TUE 16:50",
       "away_team": "DAL",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "92",
       "home_score": "70",
+      "post_url": "https://nbsleague.wordpress.com/2025/02/11/2024-25-nbs-regular-season-gameday-7-dallas-snipers-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -767,8 +1019,11 @@
       "time": "FRI 19:30",
       "away_team": "MXC",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "113",
       "home_score": "108",
+      "post_url": "https://nbsleague.wordpress.com/2025/02/14/2024-25-nbs-regular-season-gameday-7-mexico-city-aztecs-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -776,8 +1031,11 @@
       "time": "SAT 18:00",
       "away_team": "TOR",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "112",
       "home_score": "99",
+      "post_url": "https://nbsleague.wordpress.com/2025/02/15/2024-25-nbs-regular-season-gameday-7-toronto-raccoons-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -785,8 +1043,11 @@
       "time": "FRI 16:30",
       "away_team": "MON",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "93",
       "home_score": "91",
+      "post_url": "https://nbsleague.wordpress.com/2025/02/21/2024-25-nbs-regular-season-gameday-7-montreal-beavers-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -794,8 +1055,11 @@
       "time": "MON 16:20",
       "away_team": "MIN",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "99",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2025/02/24/2024-25-nbs-regular-season-gameday-7-minneapolis-blizzard-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -803,8 +1067,11 @@
       "time": "FRI 16:00",
       "away_team": "VAN",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "88",
       "home_score": "113",
+      "post_url": "https://nbsleague.wordpress.com/2025/02/28/2024-25-nbs-regular-season-gameday-7-vancouver-whalers-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -812,8 +1079,11 @@
       "time": "SAT 16:30",
       "away_team": "ANC",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "112",
       "home_score": "108",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/01/2024-25-nbs-regular-season-gameday-7-anchorage-glaciers-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -821,8 +1091,11 @@
       "time": "SAT 18:20",
       "away_team": "DEN",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "110",
       "home_score": "100",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/08/2024-25-nbs-regular-season-gameday-7-denver-high-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -830,8 +1103,11 @@
       "time": "FRI 17:00",
       "away_team": "BOS",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "93",
       "home_score": "86",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/14/2024-25-nbs-regular-season-gameday-7-boston-massacre-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -839,8 +1115,11 @@
       "time": "SAT 17:30",
       "away_team": "NY",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "103",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/15/2024-25-nbs-regular-season-gameday-7-new-york-bankers-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -848,8 +1127,11 @@
       "time": "FRI 17:30",
       "away_team": "LV",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "100",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/21/2024-25-nbs-regular-season-gameday-8-las-vegas-blue-chips-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -857,8 +1139,11 @@
       "time": "FRI 17:00",
       "away_team": "MXC",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "103",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/27/2024-25-nbs-regular-season-gameday-8-mexico-city-aztecs-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -866,8 +1151,11 @@
       "time": "SAT 17:20",
       "away_team": "PHX",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "97",
       "home_score": "114",
+      "post_url": "https://nbsleague.wordpress.com/2025/03/29/2024-25-nbs-regular-season-gameday-8-phoenix-vultures-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -875,8 +1163,11 @@
       "time": "WED 17:20",
       "away_team": "VAN",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "101",
       "home_score": "103",
+      "post_url": "https://nbsleague.wordpress.com/2025/04/02/2024-25-nbs-regular-season-gameday-8-vancouver-whalers-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -884,8 +1175,11 @@
       "time": "THU 17:45",
       "away_team": "ANC",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "89",
       "home_score": "77",
+      "post_url": "https://nbsleague.wordpress.com/2025/04/03/2024-25-nbs-regular-season-gameday-8-anchorage-glaciers-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -893,8 +1187,11 @@
       "time": "FRI 20:00",
       "away_team": "MIN",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "86",
       "home_score": "113",
+      "post_url": "https://nbsleague.wordpress.com/2025/04/04/2024-25-nbs-regular-season-gameday-8-minneapolis-blizzard-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -902,8 +1199,11 @@
       "time": "SAT 18:15",
       "away_team": "OTT",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "108",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2025/04/12/2024-25-nbs-regular-season-gameday-8-ottawa-spiders-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -911,8 +1211,11 @@
       "time": "FRI 20:00",
       "away_team": "BOS",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "95",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/04/18/2024-25-nbs-regular-season-gameday-8-boston-massacre-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -920,8 +1223,11 @@
       "time": "FRI 21:00",
       "away_team": "LA",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "113",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2025/04/18/2024-25-nbs-regular-season-gameday-8-los-angeles-lowriders-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -929,8 +1235,11 @@
       "time": "SUN 17:20",
       "away_team": "HOU",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "113",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2025/05/18/2024-25-nbs-regular-season-gameday-9-houston-apollos-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -938,8 +1247,11 @@
       "time": "FRI 08:00",
       "away_team": "PHI",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "85",
       "home_score": "95",
+      "post_url": "https://nbsleague.wordpress.com/2025/05/23/2024-25-nbs-regular-season-gameday-9-philadelphia-cheesesteaks-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -947,8 +1259,11 @@
       "time": "SAT 17:30",
       "away_team": "SF",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "108",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2025/05/24/2024-25-nbs-regular-season-gameday-9-san-francisco-unicorns-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -956,8 +1271,11 @@
       "time": "SAT 20:30",
       "away_team": "MIA",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "102",
       "home_score": "94",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/07/2024-25-nbs-regular-season-gameday-9-miami-cyclones-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -965,8 +1283,11 @@
       "time": "MON 22:00",
       "away_team": "NY",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "121",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/09/2024-25-nbs-regular-season-gameday-9-new-york-bankers-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -974,8 +1295,11 @@
       "time": "TUE 17:15",
       "away_team": "SEA",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "102",
       "home_score": "117",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/10/2024-25-nbs-regular-season-gameday-9-seattle-symphony-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -983,8 +1307,11 @@
       "time": "WED 17:15",
       "away_team": "SEA",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "105",
       "home_score": "112",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/11/2024-25-nbs-regular-season-gameday-10-seattle-symphony-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -992,8 +1319,11 @@
       "time": "FRI 18:20",
       "away_team": "BOS",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "105",
       "home_score": "118",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/13/2024-25-nbs-regular-season-gameday-10-boston-massacre-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -1001,8 +1331,11 @@
       "time": "SAT 18:00",
       "away_team": "MIN",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "104",
       "home_score": "114",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/14/2024-25-nbs-regular-season-gameday-10-minneapolis-blizzard-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -1010,8 +1343,11 @@
       "time": "MON 17:00",
       "away_team": "LV",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "111",
       "home_score": "103",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/16/2024-25-nbs-regular-season-gameday-10-las-vegas-blue-chips-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -1019,8 +1355,11 @@
       "time": "MON 21:00",
       "away_team": "SF",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "114",
       "home_score": "108",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/16/2024-25-nbs-regular-season-gameday-10-san-francisco-unicorns-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1028,8 +1367,11 @@
       "time": "TUE 21:00",
       "away_team": "VAN",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "119",
       "home_score": "144",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/17/2024-25-nbs-regular-season-gameday-10-vancouver-whalers-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -1037,8 +1379,11 @@
       "time": "WED 21:00",
       "away_team": "TOR",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "109",
       "home_score": "91",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/18/2024-25-nbs-regular-season-gameday-10-toronto-raccoons-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -1046,8 +1391,11 @@
       "time": "THU 17:20",
       "away_team": "PHI",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "114",
       "home_score": "113",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/19/2024-25-nbs-regular-season-gameday-10-philadelphia-cheesesteaks-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -1055,8 +1403,11 @@
       "time": "FRI 17:50",
       "away_team": "DAL",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "98",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/20/2024-25-nbs-regular-season-gameday-10-dallas-snipers-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -1064,8 +1415,11 @@
       "time": "SAT 17:30",
       "away_team": "WSH",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "94",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/21/2024-25-nbs-regular-season-gameday-11-washington-monuments-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -1073,8 +1427,11 @@
       "time": "TUE 17:00",
       "away_team": "DAL",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "94",
       "home_score": "84",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/24/2024-25-nbs-regular-season-gameday-11-dallas-snipers-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -1082,8 +1439,11 @@
       "time": "TUE 17:00",
       "away_team": "MIA",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "124",
       "home_score": "120",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/24/2024-25-nbs-regular-season-gameday-11-miami-cyclones-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -1091,8 +1451,11 @@
       "time": "TUE 17:00",
       "away_team": "ANC",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "113",
       "home_score": "112",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/24/2024-25-nbs-regular-season-gameday-11-anchorage-glaciers-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -1100,8 +1463,11 @@
       "time": "TUE 17:00",
       "away_team": "LV",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "114",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/24/2024-25-nbs-regular-season-gameday-11-las-vegas-blue-chips-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -1109,8 +1475,11 @@
       "time": "TUE 17:00",
       "away_team": "BOS",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "95",
       "home_score": "79",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/24/2024-25-nbs-regular-season-gameday-11-boston-massacre-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -1118,8 +1487,11 @@
       "time": "TUE 17:00",
       "away_team": "SF",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "109",
       "home_score": "104",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/24/2024-25-nbs-regular-season-gameday-11-san-francisco-unicorns-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -1127,8 +1499,11 @@
       "time": "WED 20:20",
       "away_team": "PHX",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "75",
       "home_score": "82",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/25/2024-25-nbs-regular-season-gameday-11-phoenix-vultures-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -1136,8 +1511,11 @@
       "time": "THU 17:20",
       "away_team": "OTT",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "111",
       "home_score": "95",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/26/2024-25-nbs-regular-season-gameday-11-ottawa-spiders-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -1145,8 +1523,11 @@
       "time": "FRI 16:30",
       "away_team": "SEA",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "104",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/27/2024-25-nbs-regular-season-gameday-11-seattle-symphony-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -1154,8 +1535,11 @@
       "time": "SUN 17:00",
       "away_team": "SEA",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "108",
       "home_score": "120",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/29/2024-25-nbs-regular-season-gameday-12-seattle-symphony-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -1163,8 +1547,11 @@
       "time": "MON 18:00",
       "away_team": "BOS",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "127",
       "home_score": "118",
+      "post_url": "https://nbsleague.wordpress.com/2025/06/30/2024-25-nbs-regular-season-gameday-12-boston-massacre-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -1172,8 +1559,11 @@
       "time": "TUE 20:00",
       "away_team": "MXC",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "103",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/01/2024-25-nbs-regular-season-gameday-12-mexico-city-aztecs-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -1181,8 +1571,11 @@
       "time": "WED 19:00",
       "away_team": "SF",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "118",
       "home_score": "121",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/02/2024-25-nbs-regular-season-gameday-12-san-francisco-unicorns-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -1190,8 +1583,11 @@
       "time": "SUN 17:00",
       "away_team": "VAN",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "110",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/06/2024-25-nbs-regular-season-gameday-14-vancouver-whalers-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -1199,8 +1595,11 @@
       "time": "SUN 21:00",
       "away_team": "HOU",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "109",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/06/2024-25-nbs-regular-season-gameday-14-houston-apollos-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1208,8 +1607,11 @@
       "time": "MON 19:30",
       "away_team": "LA",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "91",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/07/2024-25-nbs-regular-season-gameday-14-los-angeles-lowriders-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -1217,8 +1619,11 @@
       "time": "TUE 18:00",
       "away_team": "OTT",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "118",
       "home_score": "108",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/08/2024-25-nbs-regular-season-gameday-14-ottawa-spiders-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -1226,8 +1631,11 @@
       "time": "WED 18:00",
       "away_team": "TOR",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "120",
       "home_score": "113",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/09/2024-25-nbs-regular-season-gameday-14-toronto-raccoons-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -1235,8 +1643,11 @@
       "time": "THU 17:30",
       "away_team": "MON",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "89",
       "home_score": "90",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/10/2024-25-nbs-regular-season-gameday-15-montreal-beavers-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -1244,8 +1655,11 @@
       "time": "FRI 21:00",
       "away_team": "DAL",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "90",
       "home_score": "105",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/11/2024-25-nbs-regular-season-gameday-15-dallas-snipers-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -1253,8 +1667,11 @@
       "time": "SAT 19:00",
       "away_team": "LV",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "96",
       "home_score": "83",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/12/2024-25-nbs-regular-season-gameday-15-las-vegas-blue-chips-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -1262,8 +1679,11 @@
       "time": "SUN 20:30",
       "away_team": "OTT",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "149",
       "home_score": "124",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/13/2024-25-nbs-regular-season-gameday-15-ottawa-spiders-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1271,8 +1691,11 @@
       "time": "SUN 20:30",
       "away_team": "WSH",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "105",
       "home_score": "131",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/13/2024-25-nbs-regular-season-gameday-15-washington-monuments-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -1280,8 +1703,11 @@
       "time": "SUN 20:30",
       "away_team": "MIA",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "108",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/13/2024-25-nbs-regular-season-gameday-15-miami-cyclones-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -1289,8 +1715,11 @@
       "time": "SUN 20:30",
       "away_team": "DEN",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "106",
       "home_score": "89",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/13/2024-25-nbs-regular-season-gameday-15-denver-high-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -1298,8 +1727,11 @@
       "time": "SUN 20:30",
       "away_team": "TOR",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "112",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/13/2024-25-nbs-regular-season-gameday-15-toronto-raccoons-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -1307,8 +1739,11 @@
       "time": "SUN 20:30",
       "away_team": "MXC",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "113",
       "home_score": "123",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/13/2024-25-nbs-regular-season-gameday-15-mexico-city-aztecs-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -1316,8 +1751,11 @@
       "time": "MON 18:30",
       "away_team": "LA",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "104",
       "home_score": "82",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/14/2024-25-nbs-regular-season-gameday-15-los-angeles-lowriders-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -1325,8 +1763,11 @@
       "time": "TUE 18:00",
       "away_team": "DAL",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "104",
       "home_score": "106",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/15/2024-25-nbs-regular-season-gameday-16-dallas-snipers-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -1334,8 +1775,11 @@
       "time": "SUN 17:30",
       "away_team": "LEGACY",
       "home_team": "CLASSIC",
+      "away_logo": "",
+      "home_logo": "",
       "away_score": "125",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/20/2025-nbs-all-star-game-legacy-conference-vs-classic-conference/",
       "status": "Final"
     },
     {
@@ -1343,8 +1787,11 @@
       "time": "TUE 17:00",
       "away_team": "PHX",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "98",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/22/2024-25-nbs-regular-season-gameday-18-phoenix-vultures-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -1352,8 +1799,11 @@
       "time": "WED 16:30",
       "away_team": "MIA",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "108",
       "home_score": "110",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/23/2024-25-nbs-regular-season-gameday-18-miami-cyclones-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -1361,8 +1811,11 @@
       "time": "THU 17:30",
       "away_team": "HOU",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "120",
       "home_score": "136",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/24/2024-25-nbs-regular-season-gameday-18-houston-apollos-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -1370,8 +1823,11 @@
       "time": "FRI 17:30",
       "away_team": "MIN",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "107",
       "home_score": "137",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/25/2024-25-nbs-regular-season-gameday-18-minneapolis-blizzard-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -1379,8 +1835,11 @@
       "time": "SAT 17:00",
       "away_team": "OTT",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "115",
       "home_score": "123",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/26/2024-25-nbs-regular-season-gameday-18-ottawa-spiders-vs-toronto-raccoons/",
       "status": "FinalOT"
     },
     {
@@ -1388,8 +1847,11 @@
       "time": "MON 17:30",
       "away_team": "ANC",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "99",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/28/2024-25-nbs-regular-season-gameday-18-anchorage-glaciers-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -1397,8 +1859,11 @@
       "time": "TUE 16:30",
       "away_team": "WSH",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "107",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/29/2024-25-nbs-regular-season-gameday-18-washington-monuments-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -1406,8 +1871,11 @@
       "time": "TUE 17:30",
       "away_team": "LV",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "99",
       "home_score": "118",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/29/2024-25-nbs-regular-season-gameday-18-las-vegas-blue-chips-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -1415,8 +1883,11 @@
       "time": "TUE 23:30",
       "away_team": "TOR",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "92",
       "home_score": "117",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/29/2024-25-nbs-regular-season-gameday-19-toronto-raccoons-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1424,8 +1895,11 @@
       "time": "WED 16:30",
       "away_team": "DAL",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "90",
       "home_score": "114",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/30/2024-25-nbs-regular-season-gameday-19-dallas-snipers-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -1433,8 +1907,11 @@
       "time": "WED 17:00",
       "away_team": "DEN",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "101",
       "home_score": "87",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/30/2024-25-nbs-regular-season-gameday-19-denver-high-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -1442,8 +1919,11 @@
       "time": "WED 17:30",
       "away_team": "HOU",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "105",
       "home_score": "120",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/30/2024-25-nbs-regular-season-gameday-19-houston-apollos-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -1451,8 +1931,11 @@
       "time": "THU 17:30",
       "away_team": "OTT",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "117",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2025/07/31/2024-25-nbs-regular-season-gameday-19-ottawa-spiders-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -1460,8 +1943,11 @@
       "time": "FRI 18:00",
       "away_team": "MIN",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "109",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/01/2024-25-nbs-regular-season-gameday-19-minneapolis-blizzard-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -1469,8 +1955,11 @@
       "time": "SAT 17:30",
       "away_team": "WSH",
       "home_team": "NY",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
       "away_score": "115",
       "home_score": "105",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/02/2024-25-nbs-regular-season-gameday-19-washington-monuments-vs-new-york-bankers/",
       "status": "Final"
     },
     {
@@ -1478,8 +1967,11 @@
       "time": "SAT 18:30",
       "away_team": "VAN",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "114",
       "home_score": "107",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/02/2024-25-nbs-regular-season-gameday-19-vancouver-whalers-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -1487,8 +1979,11 @@
       "time": "SUN 17:30",
       "away_team": "LA",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "91",
       "home_score": "90",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/03/2024-25-nbs-regular-season-gameday-19-los-angeles-lowriders-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -1496,8 +1991,11 @@
       "time": "MON 17:30",
       "away_team": "PHI",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "111",
       "home_score": "98",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/04/2024-25-nbs-regular-season-gameday-19-philadelphia-cheesesteaks-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -1505,8 +2003,11 @@
       "time": "TUE 17:30",
       "away_team": "PHI",
       "home_team": "TOR",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "92",
       "home_score": "115",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/05/2024-25-nbs-regular-season-gameday-20-philadelphia-cheesesteaks-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -1514,8 +2015,11 @@
       "time": "WED 17:00",
       "away_team": "MON",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "107",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/06/2024-25-nbs-regular-season-gameday-20-montreal-beavers-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -1523,8 +2027,11 @@
       "time": "THU 17:30",
       "away_team": "MXC",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "113",
       "home_score": "87",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/07/2024-25-nbs-regular-season-gameday-20-mexico-city-aztecs-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -1532,8 +2039,11 @@
       "time": "FRI 17:30",
       "away_team": "MIN",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "80",
       "home_score": "87",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/08/2024-25-nbs-regular-season-gameday-20-minneapolis-blizzard-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -1541,8 +2051,11 @@
       "time": "SAT 17:30",
       "away_team": "MIA",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "110",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/09/2024-25-nbs-regular-season-gameday-20-miami-cyclones-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1550,8 +2063,11 @@
       "time": "SUN 16:00",
       "away_team": "BOS",
       "home_team": "SEA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
       "away_score": "83",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/10/2024-25-nbs-regular-season-gameday-20-boston-massacre-vs-seattle-symphony/",
       "status": "Final"
     },
     {
@@ -1559,8 +2075,11 @@
       "time": "TUE 17:00",
       "away_team": "NY",
       "home_team": "HOU",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "139",
       "home_score": "141",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/12/2024-25-nbs-regular-season-gameday-20-new-york-bankers-vs-houston-apollos/",
       "status": "FinalOT"
     },
     {
@@ -1568,8 +2087,11 @@
       "time": "TUE 17:00",
       "away_team": "OTT",
       "home_team": "LA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "95",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/12/2024-25-nbs-regular-season-gameday-20-ottawa-spiders-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -1577,8 +2099,11 @@
       "time": "TUE 17:00",
       "away_team": "PHX",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "112",
       "home_score": "107",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/12/2024-25-nbs-regular-season-gameday-20-phoenix-vultures-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -1586,8 +2111,11 @@
       "time": "THU 17:30",
       "away_team": "SF",
       "home_team": "DEN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "116",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/14/2024-25-nbs-regular-season-gameday-20-san-francisco-unicorns-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -1595,8 +2123,11 @@
       "time": "FRI 18:00",
       "away_team": "PHI",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "100",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/15/2024-25-nbs-regular-season-gameday-21-philadelphia-cheesesteaks-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -1604,8 +2135,11 @@
       "time": "SUN 18:00",
       "away_team": "PHI",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "85",
       "home_score": "101",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/17/2024-25-nbs-regular-season-gameday-22-philadelphia-cheesesteaks-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -1613,8 +2147,11 @@
       "time": "MON 18:30",
       "away_team": "TOR",
       "home_team": "MON",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
       "away_score": "113",
       "home_score": "110",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/18/2024-25-nbs-regular-season-gameday-22-toronto-raccoons-vs-montreal-beavers/",
       "status": "Final"
     },
     {
@@ -1622,8 +2159,11 @@
       "time": "TUE 17:30",
       "away_team": "WSH",
       "home_team": "MIA",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
       "away_score": "91",
       "home_score": "114",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/19/2024-25-nbs-regular-season-gameday-22-washington-monuments-vs-miami-cyclones/",
       "status": "Final"
     },
     {
@@ -1631,8 +2171,11 @@
       "time": "THU 17:40",
       "away_team": "MXC",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "106",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/21/2024-25-nbs-regular-season-gameday-22-mexico-city-aztecs-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -1640,8 +2183,11 @@
       "time": "FRI 18:00",
       "away_team": "VAN",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "129",
       "home_score": "116",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/22/2024-25-nbs-regular-season-gameday-22-vancouver-whalers-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1649,8 +2195,11 @@
       "time": "SAT 18:00",
       "away_team": "HOU",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "109",
       "home_score": "119",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/23/2024-25-nbs-regular-season-gameday-22-houston-apollos-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -1658,8 +2207,11 @@
       "time": "MON 18:00",
       "away_team": "DEN",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "112",
       "home_score": "97",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/25/2024-25-nbs-regular-season-gameday-22-denver-high-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -1667,8 +2219,11 @@
       "time": "TUE 17:30",
       "away_team": "LV",
       "home_team": "SF",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
       "away_score": "95",
       "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/26/2024-25-nbs-regular-season-gameday-22-las-vegas-blue-chips-vs-san-francisco-unicorns/",
       "status": "Final"
     },
     {
@@ -1676,8 +2231,11 @@
       "time": "WED 17:00",
       "away_team": "NY",
       "home_team": "PHX",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
       "away_score": "108",
       "home_score": "101",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/27/2024-25-nbs-regular-season-gameday-22-new-york-bankers-vs-phoenix-vultures/",
       "status": "Final"
     },
     {
@@ -1685,8 +2243,11 @@
       "time": "FRI 18:15",
       "away_team": "MON",
       "home_team": "BOS",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "95",
       "home_score": "103",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/29/2024-25-nbs-regular-season-gameday-23-montreal-beavers-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -1694,8 +2255,11 @@
       "time": "SAT 17:30",
       "away_team": "DEN",
       "home_team": "PHI",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
       "away_score": "91",
       "home_score": "110",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/30/2024-25-nbs-regular-season-gameday-23-denver-high-vs-philadelphia-cheesesteaks/",
       "status": "Final"
     },
     {
@@ -1703,8 +2267,11 @@
       "time": "SAT 18:15",
       "away_team": "HOU",
       "home_team": "DAL",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "91",
       "home_score": "99",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/30/2024-25-nbs-regular-season-gameday-23-houston-apollos-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -1712,8 +2279,11 @@
       "time": "SUN 16:00",
       "away_team": "TOR",
       "home_team": "MXC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "104",
       "home_score": "102",
+      "post_url": "https://nbsleague.wordpress.com/2025/08/31/2024-25-nbs-regular-season-gameday-23-toronto-raccoons-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -1721,8 +2291,11 @@
       "time": "SAT 19:30",
       "away_team": "NY",
       "home_team": "ANC",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "113",
       "home_score": "137",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/13/2024-25-nbs-regular-season-gameday-23-new-york-bankers-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -1730,8 +2303,11 @@
       "time": "SAT 19:30",
       "away_team": "PHX",
       "home_team": "WSH",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "87",
       "home_score": "101",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/13/2024-25-nbs-regular-season-gameday-23-phoenix-vultures-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -1739,8 +2315,11 @@
       "time": "SAT 19:30",
       "away_team": "LA",
       "home_team": "MIN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
       "away_score": "114",
       "home_score": "96",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/13/2024-25-nbs-regular-season-gameday-23-los-angeles-lowriders-vs-minneapolis-blizzard/",
       "status": "Final"
     },
     {
@@ -1748,8 +2327,11 @@
       "time": "SAT 19:30",
       "away_team": "SF",
       "home_team": "OTT",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "90",
       "home_score": "111",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/13/2024-25-nbs-regular-season-gameday-23-san-francisco-unicorns-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -1757,8 +2339,11 @@
       "time": "SAT 19:30",
       "away_team": "SEA",
       "home_team": "VAN",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "102",
       "home_score": "125",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/13/2024-25-nbs-regular-season-gameday-23-seattle-symphony-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -1766,8 +2351,11 @@
       "time": "SAT 19:30",
       "away_team": "MIA",
       "home_team": "LV",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "100",
       "home_score": "109",
+      "post_url": "https://nbsleague.wordpress.com/2025/09/13/2024-25-nbs-regular-season-gameday-23-miami-cyclones-vs-las-vegas-blue-chips/",
       "status": "Final"
     }
   ]
