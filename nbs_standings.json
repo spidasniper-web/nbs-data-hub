@@ -1,166 +1,438 @@
 {
   "2026_standings": [
-    {
-      "rank": "1",
-      "team": "Boston Clovers",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
-      "games": "1",
-      "record": "1-0",
-      "pct": "1.000",
-      "gb": "0",
-      "mov": "+24.0"
-    },
-    {
-      "rank": "2",
-      "team": "Minneapolis Icefangs",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
-      "games": "1",
-      "record": "1-0",
-      "pct": "1.000",
-      "gb": "0",
-      "mov": "+6.0"
-    },
-    {
-      "rank": "3",
-      "team": "Stockholm Glaciers",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
-      "games": "1",
-      "record": "1-0",
-      "pct": "1.000",
-      "gb": "0",
-      "mov": "+10.0"
-    },
-    {
-      "rank": "4",
-      "team": "Washington Monuments",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-      "games": "1",
-      "record": "1-0",
-      "pct": "1.000",
-      "gb": "0",
-      "mov": "+8.0"
-    },
-    {
-      "rank": "5",
-      "team": "Philadelphia Liberty",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
-      "games": "1",
-      "record": "0-1",
-      "pct": ".000",
-      "gb": "1",
-      "mov": "-6.0"
-    },
-    {
-      "rank": "6",
-      "team": "Toronto Raccoons",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
-      "games": "2",
-      "record": "0-2",
-      "pct": ".000",
-      "gb": "1.5",
-      "mov": "-21.0"
-    }
+    [
+      {
+        "rank": "1",
+        "team": "Boston Clovers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
+        "record": "1-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "Minneapolis Icefangs",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
+        "record": "1-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "3",
+        "team": "Stockholm Glaciers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
+        "record": "1-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "4",
+        "team": "Washington Monuments",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+        "record": "1-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "5",
+        "team": "Philadelphia Liberty",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
+        "record": "0-1",
+        "pct": ".000",
+        "gb": "1"
+      },
+      {
+        "rank": "6",
+        "team": "Toronto Raccoons",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+        "record": "0-2",
+        "pct": ".000",
+        "gb": "1.5"
+      }
+    ],
+    [
+      {
+        "rank": "1",
+        "team": "Las Vegas Blue Chips",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+        "record": "1-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "Dallas Novas",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
+        "record": "1-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "3",
+        "team": "Denver Peaks",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
+        "record": "0-0",
+        "pct": ".000",
+        "gb": "0.5"
+      },
+      {
+        "rank": "4",
+        "team": "Los Angeles Lowriders",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+        "record": "0-1",
+        "pct": ".000",
+        "gb": "1"
+      },
+      {
+        "rank": "5",
+        "team": "Golden State Vantas",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
+        "record": "0-1",
+        "pct": ".000",
+        "gb": "1"
+      },
+      {
+        "rank": "6",
+        "team": "Houston Apollos",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+        "record": "0-1",
+        "pct": ".000",
+        "gb": "1"
+      }
+    ]
   ],
   "2025_standings": [
-    {
-      "rank": "1",
-      "team": "z \u2013  Los Angeles Lowriders",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-      "games": "16",
-      "record": "11-5",
-      "pct": ".688",
-      "gb": "0",
-      "mov": "+3.8"
-    },
-    {
-      "rank": "2",
-      "team": "x \u2013  Vancouver Whalers",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
-      "games": "16",
-      "record": "9-7",
-      "pct": ".563",
-      "gb": "2",
-      "mov": "+0.1"
-    },
-    {
-      "rank": "3",
-      "team": "x \u2013  Boston Massacre",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
-      "games": "16",
-      "record": "8-8",
-      "pct": ".500",
-      "gb": "3",
-      "mov": "+1.2"
-    },
-    {
-      "rank": "4",
-      "team": "x \u2013  Dallas Snipers",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
-      "games": "16",
-      "record": "8-8",
-      "pct": ".500",
-      "gb": "3",
-      "mov": "-1.4"
-    },
-    {
-      "rank": "5",
-      "team": "x \u2013  Philadelphia Cheesesteaks",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
-      "games": "16",
-      "record": "8-8",
-      "pct": ".500",
-      "gb": "3",
-      "mov": "+0.8"
-    },
-    {
-      "rank": "6",
-      "team": "x \u2013  San Francisco Unicorns",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
-      "games": "16",
-      "record": "8-8",
-      "pct": ".500",
-      "gb": "3",
-      "mov": "+1.1"
-    },
-    {
-      "rank": "7",
-      "team": "x \u2013  Miami Cyclones",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
-      "games": "16",
-      "record": "7-9",
-      "pct": ".438",
-      "gb": "4",
-      "mov": "-1.8"
-    },
-    {
-      "rank": "8",
-      "team": "x \u2013  Seattle Symphony",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
-      "games": "16",
-      "record": "7-9",
-      "pct": ".438",
-      "gb": "4",
-      "mov": "-3.1"
-    },
-    {
-      "rank": "9",
-      "team": "e \u2013  New York Bankers",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
-      "games": "16",
-      "record": "6-10",
-      "pct": ".375",
-      "gb": "5",
-      "mov": "-2.8"
-    },
-    {
-      "rank": "10",
-      "team": "e \u2013  Phoenix Vultures",
-      "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
-      "games": "16",
-      "record": "5-11",
-      "pct": ".313",
-      "gb": "6",
-      "mov": "-3.1"
-    }
+    [
+      {
+        "rank": "1",
+        "team": "z \u2013  Los Angeles Lowriders",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+        "record": "11-5",
+        "pct": ".688",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "x \u2013  Vancouver Whalers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+        "record": "9-7",
+        "pct": ".563",
+        "gb": "2"
+      },
+      {
+        "rank": "3",
+        "team": "x \u2013  Boston Massacre",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "3"
+      },
+      {
+        "rank": "4",
+        "team": "x \u2013  Dallas Snipers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "3"
+      },
+      {
+        "rank": "5",
+        "team": "x \u2013  Philadelphia Cheesesteaks",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "3"
+      },
+      {
+        "rank": "6",
+        "team": "x \u2013  San Francisco Unicorns",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "3"
+      },
+      {
+        "rank": "7",
+        "team": "x \u2013  Miami Cyclones",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+        "record": "7-9",
+        "pct": ".438",
+        "gb": "4"
+      },
+      {
+        "rank": "8",
+        "team": "x \u2013  Seattle Symphony",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+        "record": "7-9",
+        "pct": ".438",
+        "gb": "4"
+      },
+      {
+        "rank": "9",
+        "team": "e \u2013  New York Bankers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+        "record": "6-10",
+        "pct": ".375",
+        "gb": "5"
+      },
+      {
+        "rank": "10",
+        "team": "e \u2013  Phoenix Vultures",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+        "record": "5-11",
+        "pct": ".313",
+        "gb": "6"
+      }
+    ],
+    [
+      {
+        "rank": "1",
+        "team": "z \u2013  Toronto Raccoons",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+        "record": "13-3",
+        "pct": ".813",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "x \u2013  Anchorage Glaciers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+        "record": "11-5",
+        "pct": ".688",
+        "gb": "2"
+      },
+      {
+        "rank": "3",
+        "team": "x \u2013  Las Vegas Blue Chips",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+        "record": "11-5",
+        "pct": ".688",
+        "gb": "2"
+      },
+      {
+        "rank": "4",
+        "team": "x \u2013  Mexico City Aztecs",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+        "record": "9-7",
+        "pct": ".563",
+        "gb": "4"
+      },
+      {
+        "rank": "5",
+        "team": "x \u2013  Washington Monuments",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "5"
+      },
+      {
+        "rank": "6",
+        "team": "x \u2013  Ottawa Spiders",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "5"
+      },
+      {
+        "rank": "7",
+        "team": "x \u2013  Houston Apollos",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "5"
+      },
+      {
+        "rank": "8",
+        "team": "x \u2013  Denver High",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+        "record": "7-9",
+        "pct": ".438",
+        "gb": "6"
+      },
+      {
+        "rank": "9",
+        "team": "e \u2013  Montreal Beavers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+        "record": "5-11",
+        "pct": ".313",
+        "gb": "8"
+      },
+      {
+        "rank": "10",
+        "team": "e \u2013  Minneapolis Blizzard",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+        "record": "3-13",
+        "pct": ".188",
+        "gb": "10"
+      }
+    ],
+    [
+      {
+        "rank": "1",
+        "team": "LA",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+        "record": "11-5",
+        "pct": ".688",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "VAN",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
+        "record": "9-7",
+        "pct": ".563",
+        "gb": "2"
+      },
+      {
+        "rank": "3",
+        "team": "SF",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "3"
+      },
+      {
+        "rank": "4",
+        "team": "SEA",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
+        "record": "7-9",
+        "pct": ".438",
+        "gb": "4"
+      },
+      {
+        "rank": "5",
+        "team": "PHX",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
+        "record": "5-11",
+        "pct": ".313",
+        "gb": "6"
+      }
+    ],
+    [
+      {
+        "rank": "1",
+        "team": "BOS",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "DAL",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "0"
+      },
+      {
+        "rank": "3",
+        "team": "PHI",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "0"
+      },
+      {
+        "rank": "4",
+        "team": "MIA",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
+        "record": "7-9",
+        "pct": ".438",
+        "gb": "1"
+      },
+      {
+        "rank": "5",
+        "team": "NY",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
+        "record": "6-10",
+        "pct": ".375",
+        "gb": "2"
+      }
+    ],
+    [
+      {
+        "rank": "1",
+        "team": "ANC",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
+        "record": "11-5",
+        "pct": ".688",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "LV",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+        "record": "11-5",
+        "pct": ".688",
+        "gb": "0"
+      },
+      {
+        "rank": "3",
+        "team": "MXC",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
+        "record": "9-7",
+        "pct": ".563",
+        "gb": "2"
+      },
+      {
+        "rank": "4",
+        "team": "HOU",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "3"
+      },
+      {
+        "rank": "5",
+        "team": "DEN",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
+        "record": "7-9",
+        "pct": ".438",
+        "gb": "4"
+      }
+    ],
+    [
+      {
+        "rank": "1",
+        "team": "TOR",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
+        "record": "13-3",
+        "pct": ".813",
+        "gb": "0"
+      },
+      {
+        "rank": "2",
+        "team": "WSH",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "5"
+      },
+      {
+        "rank": "3",
+        "team": "OTT",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
+        "record": "8-8",
+        "pct": ".500",
+        "gb": "5"
+      },
+      {
+        "rank": "4",
+        "team": "MON",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
+        "record": "5-11",
+        "pct": ".313",
+        "gb": "8"
+      },
+      {
+        "rank": "5",
+        "team": "MIN",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
+        "record": "3-13",
+        "pct": ".188",
+        "gb": "10"
+      }
+    ]
   ]
 }
