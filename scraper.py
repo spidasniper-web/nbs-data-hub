@@ -87,33 +87,38 @@ def scrape_all():
         try:
             res = requests.get(url, timeout=15)
             soup = BeautifulSoup(res.text, 'html.parser')
-            table = soup.find('table')
             
-            rows = table.find_all('tr')[1:] if table else []
-            season_standings = []
+            # Find ALL tables on the page (East, West, or Classic, Legacy)
+            tables = soup.find_all('table')
+            all_conferences = []
             
-            for row in rows:
-                cols = row.find_all('td')
-                if len(cols) < 5: continue
+            for table in tables:
+                rows = table.find_all('tr')[1:] # Skip header
+                conference_teams = []
                 
-                # Get Team Logo for Standings too!
-                team_logo = cols[1].find('img')['src'] if cols[1].find('img') else ""
+                for row in rows:
+                    cols = row.find_all('td')
+                    if len(cols) < 4: continue
+                    
+                    team_logo = cols[1].find('img')['src'] if cols[1].find('img') else ""
+                    
+                    conference_teams.append({
+                        "rank": cols[0].get_text().strip(),
+                        "team": cols[1].get_text().strip(),
+                        "logo": team_logo,
+                        "record": cols[3].get_text().strip(),
+                        "pct": cols[4].get_text().strip(),
+                        "gb": cols[5].get_text().strip() if len(cols) > 5 else "0"
+                    })
                 
-                season_standings.append({
-                    "rank": cols[0].get_text().strip(),
-                    "team": cols[1].get_text().strip(),
-                    "logo": team_logo,
-                    "games": cols[2].get_text().strip(),
-                    "record": cols[3].get_text().strip(),
-                    "pct": cols[4].get_text().strip(),
-                    "gb": cols[5].get_text().strip() if len(cols) > 5 else "0",
-                    "mov": cols[8].get_text().strip() if len(cols) > 8 else "0"
-                })
-            standings_data[season_name] = season_standings
+                if conference_teams:
+                    all_conferences.append(conference_teams)
+            
+            standings_data[season_name] = all_conferences
+            
         except Exception as e:
-            print(f"Error scraping {url}: {e}")
+            print(f"Error scraping standings {url}: {e}")
 
-    # Save Standings
     with open('nbs_standings.json', 'w') as f:
         json.dump(standings_data, f, indent=2)
     print("Standings saved to nbs_standings.json")
