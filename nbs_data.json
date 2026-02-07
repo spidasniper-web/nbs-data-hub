@@ -1,15 +1,12 @@
 {
-  "2026_Regular_Season": [
+  "2026_regular_season_schedule": [
     {
       "date": "JAN 26",
       "time": "MON 21:00",
       "away_team": "BOS",
       "home_team": "TOR",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "111",
       "home_score": "87",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/26/2026-nbs-regular-season-gameday-1-boston-clovers-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -17,11 +14,8 @@
       "time": "WED 16:40",
       "away_team": "PHI",
       "home_team": "MIN",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
       "away_score": "114",
       "home_score": "120",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/28/2026-nbs-regular-season-gameday-1-philadelphia-liberty-vs-minneapolis-icefangs/",
       "status": "Final"
     },
     {
@@ -29,11 +23,8 @@
       "time": "MON 23:30",
       "away_team": "HOU",
       "home_team": "LV",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "112",
       "home_score": "109",
-      "post_url": "https://nbsleague.wordpress.com/2026/02/02/2026-nbs-regular-season-gameday-1-houston-apollos-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -41,11 +32,8 @@
       "time": "WED 16:30",
       "away_team": "LA",
       "home_team": "WSH",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
       "away_score": "102",
       "home_score": "110",
-      "post_url": "https://nbsleague.wordpress.com/2026/02/04/2026-nbs-regular-season-gameday-1-los-angeles-lowriders-vs-washington-monuments/",
       "status": "Final"
     },
     {
@@ -53,25 +41,91 @@
       "time": "WED 17:00",
       "away_team": "STO",
       "home_team": "GS",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
       "away_score": "104",
       "home_score": "94",
-      "post_url": "https://nbsleague.wordpress.com/2026/02/04/2026-nbs-regular-season-gameday-1-stockholm-glaciers-vs-golden-state-vantas/",
       "status": "Final"
+    },
+    {
+      "date": "FEB 7",
+      "time": "SAT 06:00",
+      "away_team": "TOR",
+      "home_team": "DAL",
+      "away_score": "97",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "LV",
+      "home_team": "BOS",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "HOU",
+      "home_team": "LA",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "STO",
+      "home_team": "WSH",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "PHI",
+      "home_team": "DEN",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "LV",
+      "home_team": "TOR",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "MIN",
+      "home_team": "DEN",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
+    },
+    {
+      "date": "",
+      "time": "",
+      "away_team": "DAL",
+      "home_team": "BOS",
+      "away_score": "0",
+      "home_score": "0",
+      "status": ""
     }
   ],
-  "2026_Preseason": [
+  "2026_preseason_schedule": [
     {
       "date": "DEC 28",
       "time": "SUN 12:00",
       "away_team": "DEN",
       "home_team": "STO",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
       "away_score": "100",
       "home_score": "96",
-      "post_url": "https://nbsleague.wordpress.com/2025/12/28/2026-nbs-preseason-denver-peaks-vs-stockholm-glaciers/",
       "status": "Final"
     },
     {
@@ -79,11 +133,8 @@
       "time": "TUE 18:20",
       "away_team": "WSH",
       "home_team": "LV",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "104",
       "home_score": "106",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/06/2026-nbs-preseason-washington-monuments-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -91,11 +142,8 @@
       "time": "FRI 12:00",
       "away_team": "HOU",
       "home_team": "MIN",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
       "away_score": "97",
       "home_score": "109",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/09/2026-nbs-preseason-houston-apollos-vs-minneapolis-icefangs/",
       "status": "Final"
     },
     {
@@ -103,11 +151,8 @@
       "time": "SAT 18:30",
       "away_team": "LA",
       "home_team": "GS",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
       "away_score": "105",
       "home_score": "123",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/10/2026-nbs-preseason-los-angeles-lowriders-vs-golden-state-vantas/",
       "status": "Final"
     },
     {
@@ -115,11 +160,8 @@
       "time": "SUN 11:30",
       "away_team": "BOS",
       "home_team": "PHI",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
       "away_score": "123",
       "home_score": "93",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/11/2026-nbs-preseason-boston-clovers-vs-philadelphia-liberty/",
       "status": "Final"
     },
     {
@@ -127,11 +169,8 @@
       "time": "SAT 18:20",
       "away_team": "DAL",
       "home_team": "TOR",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "117",
       "home_score": "110",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/17/2026-nbs-preseason-dallas-novas-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -139,25 +178,19 @@
       "time": "TUE 00:50",
       "away_team": "GS",
       "home_team": "LA",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "119",
       "home_score": "116",
-      "post_url": "https://nbsleague.wordpress.com/2026/01/20/2026-nbs-preseason-golden-state-vantas-vs-los-angeles-lowriders/",
       "status": "Final"
     }
   ],
-  "2025_Playoffs": [
+  "2025_playoff_schedule": [
     {
       "date": "SEP 20",
       "time": "SAT 19:50",
       "away_team": "SEA",
       "home_team": "LA",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
       "away_score": "117",
       "home_score": "106",
-      "post_url": "https://nbsleague.wordpress.com/2025/09/20/2025-nbs-playoffs-first-round-seattle-symphony-vs-los-angeles-lowriders/",
       "status": "Final"
     },
     {
@@ -165,11 +198,8 @@
       "time": "SUN 11:00",
       "away_team": "PHI",
       "home_team": "DAL",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "89",
       "home_score": "118",
-      "post_url": "https://nbsleague.wordpress.com/2025/09/21/2025-nbs-playoffs-first-round-philadelphia-cheesesteaks-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -177,11 +207,8 @@
       "time": "FRI 20:00",
       "away_team": "SF",
       "home_team": "BOS",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "102",
       "home_score": "76",
-      "post_url": "https://nbsleague.wordpress.com/2025/09/26/2025-nbs-playoffs-first-round-san-francisco-unicorns-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -189,11 +216,8 @@
       "time": "SUN 18:00",
       "away_team": "MIA",
       "home_team": "VAN",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "95",
       "home_score": "97",
-      "post_url": "https://nbsleague.wordpress.com/2025/09/28/2025-nbs-playoffs-first-round-miami-cyclones-vs-vancouver-whalers/",
       "status": "Final"
     },
     {
@@ -201,11 +225,8 @@
       "time": "MON 17:30",
       "away_team": "DEN",
       "home_team": "TOR",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "102",
       "home_score": "111",
-      "post_url": "https://nbsleague.wordpress.com/2025/09/29/2025-nbs-playoffs-first-round-denver-high-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -213,11 +234,8 @@
       "time": "WED 10:30",
       "away_team": "WSH",
       "home_team": "MXC",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "80",
       "home_score": "106",
-      "post_url": "https://nbsleague.wordpress.com/2025/10/01/2025-nbs-playoffs-first-round-washington-monuments-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -225,11 +243,8 @@
       "time": "SAT 06:00",
       "away_team": "OTT",
       "home_team": "LV",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "81",
       "home_score": "111",
-      "post_url": "https://nbsleague.wordpress.com/2025/10/04/2025-nbs-playoffs-first-round-ottawa-spiders-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -237,25 +252,82 @@
       "time": "SAT 18:30",
       "away_team": "HOU",
       "home_team": "ANC",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "117",
       "home_score": "113",
-      "post_url": "https://nbsleague.wordpress.com/2025/10/04/2025-nbs-playoffs-first-round-houston-apollos-vs-anchorage-glaciers/",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 5",
+      "time": "SUN 17:30",
+      "away_team": "SEA",
+      "home_team": "DAL",
+      "away_score": "106",
+      "home_score": "105",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 6",
+      "time": "MON 17:50",
+      "away_team": "SF",
+      "home_team": "VAN",
+      "away_score": "105",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 9",
+      "time": "THU 18:30",
+      "away_team": "MXC",
+      "home_team": "TOR",
+      "away_score": "111",
+      "home_score": "115",
+      "status": "FinalOT"
+    },
+    {
+      "date": "OCT 11",
+      "time": "SAT 05:20",
+      "away_team": "HOU",
+      "home_team": "LV",
+      "away_score": "85",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 12",
+      "time": "SUN 17:30",
+      "away_team": "SEA",
+      "home_team": "VAN",
+      "away_score": "81",
+      "home_score": "136",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 18",
+      "time": "SAT 18:30",
+      "away_team": "LV",
+      "home_team": "TOR",
+      "away_score": "99",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 23",
+      "time": "THU 17:00",
+      "away_team": "VAN",
+      "home_team": "TOR",
+      "away_score": "104",
+      "home_score": "111",
       "status": "Final"
     }
   ],
-  "2024_25_Regular_Season": [
+  "2025_regular_season_schedule": [
     {
       "date": "AUG 28",
       "time": "WED 16:30",
       "away_team": "MON",
       "home_team": "DEN",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
       "away_score": "98",
       "home_score": "103",
-      "post_url": "https://nbsleague.wordpress.com/2024/08/19/2024-25-nbs-regular-season-g1-montreal-beavers-vs-denver-high/",
       "status": "Final"
     },
     {
@@ -263,11 +335,8 @@
       "time": "FRI 21:00",
       "away_team": "MIA",
       "home_team": "DAL",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
       "away_score": "100",
       "home_score": "114",
-      "post_url": "https://nbsleague.wordpress.com/2024/08/26/2024-25-nbs-regular-season-g2-miami-cyclones-vs-dallas-snipers/",
       "status": "Final"
     },
     {
@@ -275,11 +344,8 @@
       "time": "SAT 17:00",
       "away_team": "SF",
       "home_team": "HOU",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
       "away_score": "108",
       "home_score": "125",
-      "post_url": "https://nbsleague.wordpress.com/2024/08/30/2024-25-nbs-regular-season-g3-san-francisco-unicorns-vs-houston-apollos/",
       "status": "Final"
     },
     {
@@ -287,11 +353,8 @@
       "time": "FRI 17:20",
       "away_team": "LA",
       "home_team": "TOR",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
       "away_score": "116",
       "home_score": "127",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/04/2024-25-nbs-regular-season-gameday-1-los-angeles-lowriders-vs-toronto-raccoons/",
       "status": "Final"
     },
     {
@@ -299,11 +362,8 @@
       "time": "SAT 17:20",
       "away_team": "WSH",
       "home_team": "LV",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
       "away_score": "102",
       "home_score": "121",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/06/2024-25-nbs-regular-season-gameday-1-washington-monuments-vs-las-vegas-blue-chips/",
       "status": "Final"
     },
     {
@@ -311,11 +371,8 @@
       "time": "MON 16:50",
       "away_team": "SEA",
       "home_team": "ANC",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
       "away_score": "86",
       "home_score": "122",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/09/2024-25-nbs-regular-season-gameday-1-seattle-symphony-vs-anchorage-glaciers/",
       "status": "Final"
     },
     {
@@ -323,11 +380,8 @@
       "time": "MON 17:00",
       "away_team": "NY",
       "home_team": "MXC",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
       "away_score": "95",
       "home_score": "109",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/14/2024-25-nbs-regular-season-gameday-1-new-york-bankers-vs-mexico-city-aztecs/",
       "status": "Final"
     },
     {
@@ -335,11 +389,8 @@
       "time": "THU 16:30",
       "away_team": "MIN",
       "home_team": "BOS",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
       "away_score": "94",
       "home_score": "103",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/19/2024-25-nbs-regular-season-gameday-1-minneapolis-blizzard-vs-boston-massacre/",
       "status": "Final"
     },
     {
@@ -347,11 +398,8 @@
       "time": "SUN 16:30",
       "away_team": "PHX",
       "home_team": "OTT",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
       "away_score": "97",
       "home_score": "92",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/22/2024-25-nbs-regular-season-gameday-1-phoenix-vultures-vs-ottawa-spiders/",
       "status": "Final"
     },
     {
@@ -359,11 +407,1367 @@
       "time": "TUE 16:30",
       "away_team": "PHI",
       "home_team": "VAN",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
       "away_score": "112",
       "home_score": "117",
-      "post_url": "https://nbsleague.wordpress.com/2024/09/24/2024-25-nbs-regular-season-gameday-1-philadelphia-cheesesteaks-vs-vancouver-whalers/",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 25",
+      "time": "FRI 17:30",
+      "away_team": "DAL",
+      "home_team": "SEA",
+      "away_score": "79",
+      "home_score": "105",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 26",
+      "time": "SAT 17:30",
+      "away_team": "MXC",
+      "home_team": "SF",
+      "away_score": "94",
+      "home_score": "107",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 26",
+      "time": "SAT 22:00",
+      "away_team": "NY",
+      "home_team": "BOS",
+      "away_score": "96",
+      "home_score": "110",
+      "status": "Final"
+    },
+    {
+      "date": "OCT 30",
+      "time": "WED 17:00",
+      "away_team": "VAN",
+      "home_team": "LA",
+      "away_score": "86",
+      "home_score": "112",
+      "status": "Final"
+    },
+    {
+      "date": "NOV 1",
+      "time": "FRI 17:00",
+      "away_team": "ANC",
+      "home_team": "PHI",
+      "away_score": "105",
+      "home_score": "100",
+      "status": "Final"
+    },
+    {
+      "date": "NOV 2",
+      "time": "SAT 17:10",
+      "away_team": "PHX",
+      "home_team": "LV",
+      "away_score": "105",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "NOV 9",
+      "time": "SAT 18:30",
+      "away_team": "HOU",
+      "home_team": "TOR",
+      "away_score": "120",
+      "home_score": "124",
+      "status": "Final"
+    },
+    {
+      "date": "NOV 16",
+      "time": "SAT 18:00",
+      "away_team": "MIN",
+      "home_team": "WSH",
+      "away_score": "121",
+      "home_score": "127",
+      "status": "Final"
+    },
+    {
+      "date": "NOV 21",
+      "time": "THU 16:00",
+      "away_team": "DEN",
+      "home_team": "MIA",
+      "away_score": "108",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "NOV 27",
+      "time": "WED 16:30",
+      "away_team": "WSH",
+      "home_team": "VAN",
+      "away_score": "108",
+      "home_score": "130",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 6",
+      "time": "FRI 19:00",
+      "away_team": "MIA",
+      "home_team": "PHX",
+      "away_score": "103",
+      "home_score": "100",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 12",
+      "time": "THU 16:30",
+      "away_team": "MON",
+      "home_team": "PHI",
+      "away_score": "99",
+      "home_score": "92",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 20",
+      "time": "FRI 16:40",
+      "away_team": "ANC",
+      "home_team": "MIN",
+      "away_score": "97",
+      "home_score": "79",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 21",
+      "time": "SAT 16:00",
+      "away_team": "TOR",
+      "home_team": "DAL",
+      "away_score": "107",
+      "home_score": "121",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 22",
+      "time": "SUN 15:30",
+      "away_team": "OTT",
+      "home_team": "LV",
+      "away_score": "86",
+      "home_score": "98",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 25",
+      "time": "WED 16:45",
+      "away_team": "BOS",
+      "home_team": "HOU",
+      "away_score": "91",
+      "home_score": "98",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 28",
+      "time": "SAT 16:30",
+      "away_team": "SEA",
+      "home_team": "MXC",
+      "away_score": "120",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "DEC 31",
+      "time": "TUE 17:30",
+      "away_team": "LA",
+      "home_team": "DEN",
+      "away_score": "80",
+      "home_score": "74",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 4",
+      "time": "SAT 15:30",
+      "away_team": "MON",
+      "home_team": "NY",
+      "away_score": "90",
+      "home_score": "123",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 8",
+      "time": "WED 16:30",
+      "away_team": "PHX",
+      "home_team": "HOU",
+      "away_score": "108",
+      "home_score": "119",
+      "status": "FinalOT"
+    },
+    {
+      "date": "JAN 11",
+      "time": "SAT 15:30",
+      "away_team": "LA",
+      "home_team": "PHI",
+      "away_score": "108",
+      "home_score": "105",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 13",
+      "time": "MON 15:30",
+      "away_team": "MXC",
+      "home_team": "PHX",
+      "away_score": "101",
+      "home_score": "87",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 18",
+      "time": "SAT 17:20",
+      "away_team": "NY",
+      "home_team": "PHI",
+      "away_score": "111",
+      "home_score": "113",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 20",
+      "time": "MON 15:30",
+      "away_team": "SEA",
+      "home_team": "MON",
+      "away_score": "103",
+      "home_score": "101",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 21",
+      "time": "TUE 16:45",
+      "away_team": "ANC",
+      "home_team": "WSH",
+      "away_score": "101",
+      "home_score": "108",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 22",
+      "time": "WED 16:40",
+      "away_team": "BOS",
+      "home_team": "VAN",
+      "away_score": "89",
+      "home_score": "92",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 25",
+      "time": "SAT 16:30",
+      "away_team": "DEN",
+      "home_team": "OTT",
+      "away_score": "104",
+      "home_score": "107",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 26",
+      "time": "SUN 18:00",
+      "away_team": "SF",
+      "home_team": "MIA",
+      "away_score": "108",
+      "home_score": "101",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 28",
+      "time": "TUE 18:30",
+      "away_team": "LV",
+      "home_team": "TOR",
+      "away_score": "100",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 29",
+      "time": "WED 17:30",
+      "away_team": "DAL",
+      "home_team": "LA",
+      "away_score": "116",
+      "home_score": "114",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 30",
+      "time": "THU 16:30",
+      "away_team": "WSH",
+      "home_team": "OTT",
+      "away_score": "103",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "JAN 31",
+      "time": "FRI 17:00",
+      "away_team": "VAN",
+      "home_team": "SF",
+      "away_score": "98",
+      "home_score": "118",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 3",
+      "time": "MON 17:30",
+      "away_team": "ANC",
+      "home_team": "DAL",
+      "away_score": "98",
+      "home_score": "93",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 3",
+      "time": "MON 17:30",
+      "away_team": "LV",
+      "home_team": "NY",
+      "away_score": "119",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 3",
+      "time": "MON 17:30",
+      "away_team": "PHI",
+      "home_team": "SEA",
+      "away_score": "127",
+      "home_score": "92",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 3",
+      "time": "MON 17:30",
+      "away_team": "MON",
+      "home_team": "MIN",
+      "away_score": "105",
+      "home_score": "118",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 3",
+      "time": "MON 17:30",
+      "away_team": "HOU",
+      "home_team": "MIA",
+      "away_score": "121",
+      "home_score": "92",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 3",
+      "time": "MON 17:30",
+      "away_team": "DEN",
+      "home_team": "MXC",
+      "away_score": "85",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 11",
+      "time": "TUE 16:50",
+      "away_team": "DAL",
+      "home_team": "WSH",
+      "away_score": "92",
+      "home_score": "70",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 14",
+      "time": "FRI 19:30",
+      "away_team": "MXC",
+      "home_team": "OTT",
+      "away_score": "113",
+      "home_score": "108",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 15",
+      "time": "SAT 18:00",
+      "away_team": "TOR",
+      "home_team": "MIA",
+      "away_score": "112",
+      "home_score": "99",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 21",
+      "time": "FRI 16:30",
+      "away_team": "MON",
+      "home_team": "LA",
+      "away_score": "93",
+      "home_score": "91",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 24",
+      "time": "MON 16:20",
+      "away_team": "MIN",
+      "home_team": "PHI",
+      "away_score": "99",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "date": "FEB 28",
+      "time": "FRI 16:00",
+      "away_team": "VAN",
+      "home_team": "LV",
+      "away_score": "88",
+      "home_score": "113",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 1",
+      "time": "SAT 16:30",
+      "away_team": "ANC",
+      "home_team": "PHX",
+      "away_score": "112",
+      "home_score": "108",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 8",
+      "time": "SAT 18:20",
+      "away_team": "DEN",
+      "home_team": "HOU",
+      "away_score": "110",
+      "home_score": "100",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 14",
+      "time": "FRI 17:00",
+      "away_team": "BOS",
+      "home_team": "SF",
+      "away_score": "93",
+      "home_score": "86",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 15",
+      "time": "SAT 17:30",
+      "away_team": "NY",
+      "home_team": "SEA",
+      "away_score": "103",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 21",
+      "time": "FRI 17:30",
+      "away_team": "LV",
+      "home_team": "DAL",
+      "away_score": "100",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 28",
+      "time": "FRI 17:00",
+      "away_team": "MXC",
+      "home_team": "MON",
+      "away_score": "103",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "date": "MAR 29",
+      "time": "SAT 17:20",
+      "away_team": "PHX",
+      "home_team": "SEA",
+      "away_score": "97",
+      "home_score": "114",
+      "status": "Final"
+    },
+    {
+      "date": "APR 2",
+      "time": "WED 17:20",
+      "away_team": "VAN",
+      "home_team": "TOR",
+      "away_score": "101",
+      "home_score": "103",
+      "status": "Final"
+    },
+    {
+      "date": "APR 3",
+      "time": "THU 17:45",
+      "away_team": "ANC",
+      "home_team": "DEN",
+      "away_score": "89",
+      "home_score": "77",
+      "status": "Final"
+    },
+    {
+      "date": "APR 4",
+      "time": "FRI 20:00",
+      "away_team": "MIN",
+      "home_team": "SF",
+      "away_score": "86",
+      "home_score": "113",
+      "status": "Final"
+    },
+    {
+      "date": "APR 12",
+      "time": "SAT 18:15",
+      "away_team": "OTT",
+      "home_team": "NY",
+      "away_score": "108",
+      "home_score": "92",
+      "status": "Final"
+    },
+    {
+      "date": "APR 18",
+      "time": "FRI 20:00",
+      "away_team": "BOS",
+      "home_team": "MIA",
+      "away_score": "95",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "APR 18",
+      "time": "FRI 21:00",
+      "away_team": "LA",
+      "home_team": "WSH",
+      "away_score": "113",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "date": "MAY 18",
+      "time": "SUN 17:20",
+      "away_team": "HOU",
+      "home_team": "MON",
+      "away_score": "113",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "MAY 23",
+      "time": "FRI 08:00",
+      "away_team": "PHI",
+      "home_team": "BOS",
+      "away_score": "85",
+      "home_score": "95",
+      "status": "Final"
+    },
+    {
+      "date": "MAY 24",
+      "time": "SAT 17:30",
+      "away_team": "SF",
+      "home_team": "TOR",
+      "away_score": "108",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 7",
+      "time": "SAT 20:30",
+      "away_team": "MIA",
+      "home_team": "OTT",
+      "away_score": "102",
+      "home_score": "94",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 9",
+      "time": "MON 22:00",
+      "away_team": "NY",
+      "home_team": "LA",
+      "away_score": "121",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 10",
+      "time": "TUE 17:15",
+      "away_team": "SEA",
+      "home_team": "MIN",
+      "away_score": "102",
+      "home_score": "117",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 11",
+      "time": "WED 17:15",
+      "away_team": "SEA",
+      "home_team": "WSH",
+      "away_score": "105",
+      "home_score": "112",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 13",
+      "time": "FRI 18:20",
+      "away_team": "BOS",
+      "home_team": "LA",
+      "away_score": "105",
+      "home_score": "118",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 14",
+      "time": "SAT 18:00",
+      "away_team": "MIN",
+      "home_team": "MXC",
+      "away_score": "104",
+      "home_score": "114",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 16",
+      "time": "MON 17:00",
+      "away_team": "LV",
+      "home_team": "MON",
+      "away_score": "111",
+      "home_score": "103",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 16",
+      "time": "MON 21:00",
+      "away_team": "SF",
+      "home_team": "ANC",
+      "away_score": "114",
+      "home_score": "108",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 17",
+      "time": "TUE 21:00",
+      "away_team": "VAN",
+      "home_team": "HOU",
+      "away_score": "119",
+      "home_score": "144",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 18",
+      "time": "WED 21:00",
+      "away_team": "TOR",
+      "home_team": "NY",
+      "away_score": "109",
+      "home_score": "91",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 19",
+      "time": "THU 17:20",
+      "away_team": "PHI",
+      "home_team": "OTT",
+      "away_score": "114",
+      "home_score": "113",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 20",
+      "time": "FRI 17:50",
+      "away_team": "DAL",
+      "home_team": "DEN",
+      "away_score": "98",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 21",
+      "time": "SAT 17:30",
+      "away_team": "WSH",
+      "home_team": "PHI",
+      "away_score": "94",
+      "home_score": "109",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 24",
+      "time": "TUE 17:00",
+      "away_team": "DAL",
+      "home_team": "MIN",
+      "away_score": "94",
+      "home_score": "84",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 24",
+      "time": "TUE 17:00",
+      "away_team": "MIA",
+      "home_team": "MON",
+      "away_score": "124",
+      "home_score": "120",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 24",
+      "time": "TUE 17:00",
+      "away_team": "ANC",
+      "home_team": "MXC",
+      "away_score": "113",
+      "home_score": "112",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 24",
+      "time": "TUE 17:00",
+      "away_team": "LV",
+      "home_team": "HOU",
+      "away_score": "114",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 24",
+      "time": "TUE 17:00",
+      "away_team": "BOS",
+      "home_team": "TOR",
+      "away_score": "95",
+      "home_score": "79",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 24",
+      "time": "TUE 17:00",
+      "away_team": "SF",
+      "home_team": "NY",
+      "away_score": "109",
+      "home_score": "104",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 25",
+      "time": "WED 20:20",
+      "away_team": "PHX",
+      "home_team": "DEN",
+      "away_score": "75",
+      "home_score": "82",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 26",
+      "time": "THU 17:20",
+      "away_team": "OTT",
+      "home_team": "VAN",
+      "away_score": "111",
+      "home_score": "95",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 27",
+      "time": "FRI 16:30",
+      "away_team": "SEA",
+      "home_team": "LA",
+      "away_score": "104",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 29",
+      "time": "SUN 17:00",
+      "away_team": "SEA",
+      "home_team": "MIA",
+      "away_score": "108",
+      "home_score": "120",
+      "status": "Final"
+    },
+    {
+      "date": "JUN 30",
+      "time": "MON 18:00",
+      "away_team": "BOS",
+      "home_team": "WSH",
+      "away_score": "127",
+      "home_score": "118",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 1",
+      "time": "TUE 20:00",
+      "away_team": "MXC",
+      "home_team": "LV",
+      "away_score": "103",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 2",
+      "time": "WED 19:00",
+      "away_team": "SF",
+      "home_team": "MON",
+      "away_score": "118",
+      "home_score": "121",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 6",
+      "time": "SUN 17:00",
+      "away_team": "VAN",
+      "home_team": "DAL",
+      "away_score": "110",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 6",
+      "time": "SUN 21:00",
+      "away_team": "HOU",
+      "home_team": "ANC",
+      "away_score": "109",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 7",
+      "time": "MON 19:30",
+      "away_team": "LA",
+      "home_team": "PHX",
+      "away_score": "91",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 8",
+      "time": "TUE 18:00",
+      "away_team": "OTT",
+      "home_team": "MIN",
+      "away_score": "118",
+      "home_score": "108",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 9",
+      "time": "WED 18:00",
+      "away_team": "TOR",
+      "home_team": "DEN",
+      "away_score": "120",
+      "home_score": "113",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 10",
+      "time": "THU 17:30",
+      "away_team": "MON",
+      "home_team": "PHX",
+      "away_score": "89",
+      "home_score": "90",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 11",
+      "time": "FRI 21:00",
+      "away_team": "DAL",
+      "home_team": "BOS",
+      "away_score": "90",
+      "home_score": "105",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 12",
+      "time": "SAT 19:00",
+      "away_team": "LV",
+      "home_team": "PHI",
+      "away_score": "96",
+      "home_score": "83",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 13",
+      "time": "SUN 20:30",
+      "away_team": "OTT",
+      "home_team": "ANC",
+      "away_score": "149",
+      "home_score": "124",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 13",
+      "time": "SUN 20:30",
+      "away_team": "WSH",
+      "home_team": "HOU",
+      "away_score": "105",
+      "home_score": "131",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 13",
+      "time": "SUN 20:30",
+      "away_team": "MIA",
+      "home_team": "NY",
+      "away_score": "108",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 13",
+      "time": "SUN 20:30",
+      "away_team": "DEN",
+      "home_team": "SEA",
+      "away_score": "106",
+      "home_score": "89",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 13",
+      "time": "SUN 20:30",
+      "away_team": "TOR",
+      "home_team": "MIN",
+      "away_score": "112",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 13",
+      "time": "SUN 20:30",
+      "away_team": "MXC",
+      "home_team": "VAN",
+      "away_score": "113",
+      "home_score": "123",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 14",
+      "time": "MON 18:30",
+      "away_team": "LA",
+      "home_team": "SF",
+      "away_score": "104",
+      "home_score": "82",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 15",
+      "time": "TUE 18:00",
+      "away_team": "DAL",
+      "home_team": "NY",
+      "away_score": "104",
+      "home_score": "106",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 20",
+      "time": "SUN 17:30",
+      "away_team": "LEGACY",
+      "home_team": "CLASSIC",
+      "away_score": "125",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 22",
+      "time": "TUE 17:00",
+      "away_team": "PHX",
+      "home_team": "SF",
+      "away_score": "98",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 23",
+      "time": "WED 16:30",
+      "away_team": "MIA",
+      "home_team": "LA",
+      "away_score": "108",
+      "home_score": "110",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 24",
+      "time": "THU 17:30",
+      "away_team": "HOU",
+      "home_team": "MXC",
+      "away_score": "120",
+      "home_score": "136",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 25",
+      "time": "FRI 17:30",
+      "away_team": "MIN",
+      "home_team": "VAN",
+      "away_score": "107",
+      "home_score": "137",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 26",
+      "time": "SAT 17:00",
+      "away_team": "OTT",
+      "home_team": "TOR",
+      "away_score": "115",
+      "home_score": "123",
+      "status": "FinalOT"
+    },
+    {
+      "date": "JUL 28",
+      "time": "MON 17:30",
+      "away_team": "ANC",
+      "home_team": "BOS",
+      "away_score": "99",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 29",
+      "time": "TUE 16:30",
+      "away_team": "WSH",
+      "home_team": "DEN",
+      "away_score": "107",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 29",
+      "time": "TUE 17:30",
+      "away_team": "LV",
+      "home_team": "SEA",
+      "away_score": "99",
+      "home_score": "118",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 29",
+      "time": "TUE 23:30",
+      "away_team": "TOR",
+      "home_team": "ANC",
+      "away_score": "92",
+      "home_score": "117",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 30",
+      "time": "WED 16:30",
+      "away_team": "DAL",
+      "home_team": "PHX",
+      "away_score": "90",
+      "home_score": "114",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 30",
+      "time": "WED 17:00",
+      "away_team": "DEN",
+      "home_team": "LV",
+      "away_score": "101",
+      "home_score": "87",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 30",
+      "time": "WED 17:30",
+      "away_team": "HOU",
+      "home_team": "SEA",
+      "away_score": "105",
+      "home_score": "120",
+      "status": "Final"
+    },
+    {
+      "date": "JUL 31",
+      "time": "THU 17:30",
+      "away_team": "OTT",
+      "home_team": "BOS",
+      "away_score": "117",
+      "home_score": "109",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 1",
+      "time": "FRI 18:00",
+      "away_team": "MIN",
+      "home_team": "MIA",
+      "away_score": "109",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 2",
+      "time": "SAT 17:30",
+      "away_team": "WSH",
+      "home_team": "NY",
+      "away_score": "115",
+      "home_score": "105",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 2",
+      "time": "SAT 18:30",
+      "away_team": "VAN",
+      "home_team": "MON",
+      "away_score": "114",
+      "home_score": "107",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 3",
+      "time": "SUN 17:30",
+      "away_team": "LA",
+      "home_team": "MXC",
+      "away_score": "91",
+      "home_score": "90",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 4",
+      "time": "MON 17:30",
+      "away_team": "PHI",
+      "home_team": "SF",
+      "away_score": "111",
+      "home_score": "98",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 5",
+      "time": "TUE 17:30",
+      "away_team": "PHI",
+      "home_team": "TOR",
+      "away_score": "92",
+      "home_score": "115",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 6",
+      "time": "WED 17:00",
+      "away_team": "MON",
+      "home_team": "WSH",
+      "away_score": "107",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 7",
+      "time": "THU 17:30",
+      "away_team": "MXC",
+      "home_team": "DAL",
+      "away_score": "113",
+      "home_score": "87",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 8",
+      "time": "FRI 17:30",
+      "away_team": "MIN",
+      "home_team": "LV",
+      "away_score": "80",
+      "home_score": "87",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 9",
+      "time": "SAT 17:30",
+      "away_team": "MIA",
+      "home_team": "ANC",
+      "away_score": "110",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 10",
+      "time": "SUN 16:00",
+      "away_team": "BOS",
+      "home_team": "SEA",
+      "away_score": "83",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 12",
+      "time": "TUE 17:00",
+      "away_team": "NY",
+      "home_team": "HOU",
+      "away_score": "139",
+      "home_score": "141",
+      "status": "FinalOT"
+    },
+    {
+      "date": "AUG 12",
+      "time": "TUE 17:00",
+      "away_team": "OTT",
+      "home_team": "LA",
+      "away_score": "95",
+      "home_score": "109",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 12",
+      "time": "TUE 17:00",
+      "away_team": "PHX",
+      "home_team": "VAN",
+      "away_score": "112",
+      "home_score": "107",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 14",
+      "time": "THU 17:30",
+      "away_team": "SF",
+      "home_team": "DEN",
+      "away_score": "116",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 15",
+      "time": "FRI 18:00",
+      "away_team": "PHI",
+      "home_team": "PHX",
+      "away_score": "100",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 17",
+      "time": "SUN 18:00",
+      "away_team": "PHI",
+      "home_team": "DAL",
+      "away_score": "85",
+      "home_score": "101",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 18",
+      "time": "MON 18:30",
+      "away_team": "TOR",
+      "home_team": "MON",
+      "away_score": "113",
+      "home_score": "110",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 19",
+      "time": "TUE 17:30",
+      "away_team": "WSH",
+      "home_team": "MIA",
+      "away_score": "91",
+      "home_score": "114",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 21",
+      "time": "THU 17:40",
+      "away_team": "MXC",
+      "home_team": "BOS",
+      "away_score": "106",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 22",
+      "time": "FRI 18:00",
+      "away_team": "VAN",
+      "home_team": "ANC",
+      "away_score": "129",
+      "home_score": "116",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 23",
+      "time": "SAT 18:00",
+      "away_team": "HOU",
+      "home_team": "OTT",
+      "away_score": "109",
+      "home_score": "119",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 25",
+      "time": "MON 18:00",
+      "away_team": "DEN",
+      "home_team": "MIN",
+      "away_score": "112",
+      "home_score": "97",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 26",
+      "time": "TUE 17:30",
+      "away_team": "LV",
+      "home_team": "SF",
+      "away_score": "95",
+      "home_score": "92",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 27",
+      "time": "WED 17:00",
+      "away_team": "NY",
+      "home_team": "PHX",
+      "away_score": "108",
+      "home_score": "101",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 29",
+      "time": "FRI 18:15",
+      "away_team": "MON",
+      "home_team": "BOS",
+      "away_score": "95",
+      "home_score": "103",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 30",
+      "time": "SAT 17:30",
+      "away_team": "DEN",
+      "home_team": "PHI",
+      "away_score": "91",
+      "home_score": "110",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 30",
+      "time": "SAT 18:15",
+      "away_team": "HOU",
+      "home_team": "DAL",
+      "away_score": "91",
+      "home_score": "99",
+      "status": "Final"
+    },
+    {
+      "date": "AUG 31",
+      "time": "SUN 16:00",
+      "away_team": "TOR",
+      "home_team": "MXC",
+      "away_score": "104",
+      "home_score": "102",
+      "status": "Final"
+    },
+    {
+      "date": "SEP 13",
+      "time": "SAT 19:30",
+      "away_team": "NY",
+      "home_team": "ANC",
+      "away_score": "113",
+      "home_score": "137",
+      "status": "Final"
+    },
+    {
+      "date": "SEP 13",
+      "time": "SAT 19:30",
+      "away_team": "PHX",
+      "home_team": "WSH",
+      "away_score": "87",
+      "home_score": "101",
+      "status": "Final"
+    },
+    {
+      "date": "SEP 13",
+      "time": "SAT 19:30",
+      "away_team": "LA",
+      "home_team": "MIN",
+      "away_score": "114",
+      "home_score": "96",
+      "status": "Final"
+    },
+    {
+      "date": "SEP 13",
+      "time": "SAT 19:30",
+      "away_team": "SF",
+      "home_team": "OTT",
+      "away_score": "90",
+      "home_score": "111",
+      "status": "Final"
+    },
+    {
+      "date": "SEP 13",
+      "time": "SAT 19:30",
+      "away_team": "SEA",
+      "home_team": "VAN",
+      "away_score": "102",
+      "home_score": "125",
+      "status": "Final"
+    },
+    {
+      "date": "SEP 13",
+      "time": "SAT 19:30",
+      "away_team": "MIA",
+      "home_team": "LV",
+      "away_score": "100",
+      "home_score": "109",
       "status": "Final"
     }
   ]
