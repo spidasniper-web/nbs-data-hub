@@ -5,7 +5,7 @@
         "rank": "1",
         "team": "Boston Clovers",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
-        "record": "1-0",
+        "record": "2-0",
         "pct": "1.000",
         "gb": "0"
       },
@@ -15,7 +15,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
         "record": "1-0",
         "pct": "1.000",
-        "gb": "0"
+        "gb": "0.5"
       },
       {
         "rank": "3",
@@ -23,7 +23,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
         "record": "1-0",
         "pct": "1.000",
-        "gb": "0"
+        "gb": "0.5"
       },
       {
         "rank": "4",
@@ -31,7 +31,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
         "record": "1-0",
         "pct": "1.000",
-        "gb": "0"
+        "gb": "0.5"
       },
       {
         "rank": "5",
@@ -39,7 +39,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
         "record": "0-1",
         "pct": ".000",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "6",
@@ -47,25 +47,25 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
         "record": "0-2",
         "pct": ".000",
-        "gb": "1.5"
+        "gb": "2"
       }
     ],
     [
       {
         "rank": "1",
-        "team": "Las Vegas Blue Chips",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+        "team": "Dallas Novas",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
         "record": "1-0",
         "pct": "1.000",
         "gb": "0"
       },
       {
         "rank": "2",
-        "team": "Dallas Novas",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
-        "record": "1-0",
-        "pct": "1.000",
-        "gb": "0"
+        "team": "Las Vegas Blue Chips",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
+        "record": "1-1",
+        "pct": ".500",
+        "gb": "0.5"
       },
       {
         "rank": "3",
