@@ -69,19 +69,19 @@
       },
       {
         "rank": "3",
+        "team": "Houston Apollos",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
+        "record": "1-1",
+        "pct": ".500",
+        "gb": "0.5"
+      },
+      {
+        "rank": "4",
         "team": "Denver Peaks",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
         "record": "0-0",
         "pct": ".000",
         "gb": "0.5"
-      },
-      {
-        "rank": "4",
-        "team": "Los Angeles Lowriders",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-        "record": "0-1",
-        "pct": ".000",
-        "gb": "1"
       },
       {
         "rank": "5",
@@ -93,11 +93,11 @@
       },
       {
         "rank": "6",
-        "team": "Houston Apollos",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
-        "record": "0-1",
+        "team": "Los Angeles Lowriders",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+        "record": "0-2",
         "pct": ".000",
-        "gb": "1"
+        "gb": "1.5"
       }
     ]
   ],
