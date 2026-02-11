@@ -11,6 +11,14 @@
       },
       {
         "rank": "2",
+        "team": "Washington Monuments",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
+        "record": "2-0",
+        "pct": "1.000",
+        "gb": "0"
+      },
+      {
+        "rank": "3",
         "team": "Minneapolis Icefangs",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
         "record": "1-0",
@@ -18,36 +26,28 @@
         "gb": "0.5"
       },
       {
-        "rank": "3",
-        "team": "Stockholm Glaciers",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
-        "record": "1-0",
-        "pct": "1.000",
-        "gb": "0.5"
-      },
-      {
         "rank": "4",
-        "team": "Washington Monuments",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-        "record": "1-0",
-        "pct": "1.000",
-        "gb": "0.5"
+        "team": "Philadelphia Liberty",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
+        "record": "1-1",
+        "pct": ".500",
+        "gb": "1"
       },
       {
         "rank": "5",
-        "team": "Philadelphia Liberty",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
-        "record": "0-1",
-        "pct": ".000",
-        "gb": "1.5"
+        "team": "Stockholm Glaciers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
+        "record": "1-1",
+        "pct": ".500",
+        "gb": "1"
       },
       {
         "rank": "6",
         "team": "Toronto Raccoons",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
-        "record": "0-2",
+        "record": "0-3",
         "pct": ".000",
-        "gb": "2"
+        "gb": "2.5"
       }
     ],
     [
@@ -63,9 +63,9 @@
         "rank": "2",
         "team": "Las Vegas Blue Chips",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
-        "record": "1-1",
-        "pct": ".500",
-        "gb": "0.5"
+        "record": "2-1",
+        "pct": ".667",
+        "gb": "0"
       },
       {
         "rank": "3",
@@ -79,9 +79,9 @@
         "rank": "4",
         "team": "Denver Peaks",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
-        "record": "0-0",
+        "record": "0-1",
         "pct": ".000",
-        "gb": "0.5"
+        "gb": "1"
       },
       {
         "rank": "5",
