@@ -3,19 +3,19 @@
     [
       {
         "rank": "1",
-        "team": "Boston Clovers",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
+        "team": "Washington Monuments",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
         "record": "2-0",
         "pct": "1.000",
         "gb": "0"
       },
       {
         "rank": "2",
-        "team": "Washington Monuments",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-        "record": "2-0",
-        "pct": "1.000",
-        "gb": "0"
+        "team": "Boston Clovers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
+        "record": "2-1",
+        "pct": ".667",
+        "gb": "0.5"
       },
       {
         "rank": "3",
@@ -55,7 +55,7 @@
         "rank": "1",
         "team": "Dallas Novas",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
-        "record": "1-0",
+        "record": "2-0",
         "pct": "1.000",
         "gb": "0"
       },
