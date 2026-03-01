@@ -45,9 +45,9 @@
         "rank": "6",
         "team": "Toronto Raccoons",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
-        "record": "0-3",
+        "record": "0-4",
         "pct": ".000",
-        "gb": "2.5"
+        "gb": "3"
       }
     ],
     [
@@ -55,7 +55,7 @@
         "rank": "1",
         "team": "Dallas Novas",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/dal-2-e1750998285353.png",
-        "record": "2-0",
+        "record": "3-0",
         "pct": "1.000",
         "gb": "0"
       },
@@ -65,7 +65,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
         "record": "1-1",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "3",
@@ -73,7 +73,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
         "record": "2-2",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "4",
@@ -81,7 +81,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
         "record": "1-1",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "5",
@@ -89,7 +89,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
         "record": "1-1",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "6",
@@ -97,7 +97,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
         "record": "0-2",
         "pct": ".000",
-        "gb": "2"
+        "gb": "2.5"
       }
     ]
   ],
