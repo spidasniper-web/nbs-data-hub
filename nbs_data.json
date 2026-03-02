@@ -1254,7 +1254,7 @@
   "2025_playoff_schedule": [
     {
       "date": "SEP 20",
-      "time": "SAT 19:50",
+      "time": "SAT 7:50 pm",
       "away_team": "SEA",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -1266,7 +1266,7 @@
     },
     {
       "date": "SEP 21",
-      "time": "SUN 11:00",
+      "time": "SUN 11:00 am",
       "away_team": "PHI",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -1278,7 +1278,7 @@
     },
     {
       "date": "SEP 26",
-      "time": "FRI 20:00",
+      "time": "FRI 8:00 pm",
       "away_team": "SF",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -1290,7 +1290,7 @@
     },
     {
       "date": "SEP 28",
-      "time": "SUN 18:00",
+      "time": "SUN 6:00 pm",
       "away_team": "MIA",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -1302,7 +1302,7 @@
     },
     {
       "date": "SEP 29",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "DEN",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -1314,7 +1314,7 @@
     },
     {
       "date": "OCT 1",
-      "time": "WED 10:30",
+      "time": "WED 10:30 am",
       "away_team": "WSH",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -1326,7 +1326,7 @@
     },
     {
       "date": "OCT 4",
-      "time": "SAT 06:00",
+      "time": "SAT 6:00 am",
       "away_team": "OTT",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -1338,7 +1338,7 @@
     },
     {
       "date": "OCT 4",
-      "time": "SAT 18:30",
+      "time": "SAT 6:30 pm",
       "away_team": "HOU",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -1350,7 +1350,7 @@
     },
     {
       "date": "OCT 5",
-      "time": "SUN 17:30",
+      "time": "SUN 5:30 pm",
       "away_team": "SEA",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -1362,7 +1362,7 @@
     },
     {
       "date": "OCT 6",
-      "time": "MON 17:50",
+      "time": "MON 5:50 pm",
       "away_team": "SF",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -1374,7 +1374,7 @@
     },
     {
       "date": "OCT 9",
-      "time": "THU 18:30",
+      "time": "THU 6:30 pm",
       "away_team": "MXC",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -1386,7 +1386,7 @@
     },
     {
       "date": "OCT 11",
-      "time": "SAT 05:20",
+      "time": "SAT 5:20 am",
       "away_team": "HOU",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -1398,7 +1398,7 @@
     },
     {
       "date": "OCT 12",
-      "time": "SUN 17:30",
+      "time": "SUN 5:30 pm",
       "away_team": "SEA",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -1410,7 +1410,7 @@
     },
     {
       "date": "OCT 18",
-      "time": "SAT 18:30",
+      "time": "SAT 6:30 pm",
       "away_team": "LV",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -1422,7 +1422,7 @@
     },
     {
       "date": "OCT 23",
-      "time": "THU 17:00",
+      "time": "THU 5:00 pm",
       "away_team": "VAN",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -1436,7 +1436,7 @@
   "2025_regular_season_schedule": [
     {
       "date": "AUG 28",
-      "time": "WED 16:30",
+      "time": "WED 4:30 pm",
       "away_team": "MON",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -1448,7 +1448,7 @@
     },
     {
       "date": "AUG 30",
-      "time": "FRI 21:00",
+      "time": "FRI 9:00 pm",
       "away_team": "MIA",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -1460,7 +1460,7 @@
     },
     {
       "date": "AUG 31",
-      "time": "SAT 17:00",
+      "time": "SAT 5:00 pm",
       "away_team": "SF",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -1472,7 +1472,7 @@
     },
     {
       "date": "SEP 6",
-      "time": "FRI 17:20",
+      "time": "FRI 5:20 pm",
       "away_team": "LA",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -1484,7 +1484,7 @@
     },
     {
       "date": "SEP 7",
-      "time": "SAT 17:20",
+      "time": "SAT 5:20 pm",
       "away_team": "WSH",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -1496,7 +1496,7 @@
     },
     {
       "date": "SEP 9",
-      "time": "MON 16:50",
+      "time": "MON 4:50 pm",
       "away_team": "SEA",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -1508,7 +1508,7 @@
     },
     {
       "date": "SEP 16",
-      "time": "MON 17:00",
+      "time": "MON 5:00 pm",
       "away_team": "NY",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -1520,7 +1520,7 @@
     },
     {
       "date": "SEP 19",
-      "time": "THU 16:30",
+      "time": "THU 4:30 pm",
       "away_team": "MIN",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -1532,7 +1532,7 @@
     },
     {
       "date": "SEP 22",
-      "time": "SUN 16:30",
+      "time": "SUN 4:30 pm",
       "away_team": "PHX",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -1544,7 +1544,7 @@
     },
     {
       "date": "SEP 24",
-      "time": "TUE 16:30",
+      "time": "TUE 4:30 pm",
       "away_team": "PHI",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -1556,7 +1556,7 @@
     },
     {
       "date": "OCT 25",
-      "time": "FRI 17:30",
+      "time": "FRI 5:30 pm",
       "away_team": "DAL",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -1568,7 +1568,7 @@
     },
     {
       "date": "OCT 26",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "MXC",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -1580,7 +1580,7 @@
     },
     {
       "date": "OCT 26",
-      "time": "SAT 22:00",
+      "time": "SAT 10:00 pm",
       "away_team": "NY",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -1592,7 +1592,7 @@
     },
     {
       "date": "OCT 30",
-      "time": "WED 17:00",
+      "time": "WED 5:00 pm",
       "away_team": "VAN",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -1604,7 +1604,7 @@
     },
     {
       "date": "NOV 1",
-      "time": "FRI 17:00",
+      "time": "FRI 5:00 pm",
       "away_team": "ANC",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -1616,7 +1616,7 @@
     },
     {
       "date": "NOV 2",
-      "time": "SAT 17:10",
+      "time": "SAT 5:10 pm",
       "away_team": "PHX",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -1628,7 +1628,7 @@
     },
     {
       "date": "NOV 9",
-      "time": "SAT 18:30",
+      "time": "SAT 6:30 pm",
       "away_team": "HOU",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -1640,7 +1640,7 @@
     },
     {
       "date": "NOV 16",
-      "time": "SAT 18:00",
+      "time": "SAT 6:00 pm",
       "away_team": "MIN",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -1652,7 +1652,7 @@
     },
     {
       "date": "NOV 21",
-      "time": "THU 16:00",
+      "time": "THU 4:00 pm",
       "away_team": "DEN",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -1664,7 +1664,7 @@
     },
     {
       "date": "NOV 27",
-      "time": "WED 16:30",
+      "time": "WED 4:30 pm",
       "away_team": "WSH",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -1676,7 +1676,7 @@
     },
     {
       "date": "DEC 6",
-      "time": "FRI 19:00",
+      "time": "FRI 7:00 pm",
       "away_team": "MIA",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -1688,7 +1688,7 @@
     },
     {
       "date": "DEC 12",
-      "time": "THU 16:30",
+      "time": "THU 4:30 pm",
       "away_team": "MON",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -1700,7 +1700,7 @@
     },
     {
       "date": "DEC 20",
-      "time": "FRI 16:40",
+      "time": "FRI 4:40 pm",
       "away_team": "ANC",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -1712,7 +1712,7 @@
     },
     {
       "date": "DEC 21",
-      "time": "SAT 16:00",
+      "time": "SAT 4:00 pm",
       "away_team": "TOR",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -1724,7 +1724,7 @@
     },
     {
       "date": "DEC 22",
-      "time": "SUN 15:30",
+      "time": "SUN 3:30 pm",
       "away_team": "OTT",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -1736,7 +1736,7 @@
     },
     {
       "date": "DEC 25",
-      "time": "WED 16:45",
+      "time": "WED 4:45 pm",
       "away_team": "BOS",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -1748,7 +1748,7 @@
     },
     {
       "date": "DEC 28",
-      "time": "SAT 16:30",
+      "time": "SAT 4:30 pm",
       "away_team": "SEA",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -1760,7 +1760,7 @@
     },
     {
       "date": "DEC 31",
-      "time": "TUE 17:30",
+      "time": "TUE 5:30 pm",
       "away_team": "LA",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -1772,7 +1772,7 @@
     },
     {
       "date": "JAN 4",
-      "time": "SAT 15:30",
+      "time": "SAT 3:30 pm",
       "away_team": "MON",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -1784,7 +1784,7 @@
     },
     {
       "date": "JAN 8",
-      "time": "WED 16:30",
+      "time": "WED 4:30 pm",
       "away_team": "PHX",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -1796,7 +1796,7 @@
     },
     {
       "date": "JAN 11",
-      "time": "SAT 15:30",
+      "time": "SAT 3:30 pm",
       "away_team": "LA",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -1808,7 +1808,7 @@
     },
     {
       "date": "JAN 13",
-      "time": "MON 15:30",
+      "time": "MON 3:30 pm",
       "away_team": "MXC",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -1820,7 +1820,7 @@
     },
     {
       "date": "JAN 18",
-      "time": "SAT 17:20",
+      "time": "SAT 5:20 pm",
       "away_team": "NY",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -1832,7 +1832,7 @@
     },
     {
       "date": "JAN 20",
-      "time": "MON 15:30",
+      "time": "MON 3:30 pm",
       "away_team": "SEA",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -1844,7 +1844,7 @@
     },
     {
       "date": "JAN 21",
-      "time": "TUE 16:45",
+      "time": "TUE 4:45 pm",
       "away_team": "ANC",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -1856,7 +1856,7 @@
     },
     {
       "date": "JAN 22",
-      "time": "WED 16:40",
+      "time": "WED 4:40 pm",
       "away_team": "BOS",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -1868,7 +1868,7 @@
     },
     {
       "date": "JAN 25",
-      "time": "SAT 16:30",
+      "time": "SAT 4:30 pm",
       "away_team": "DEN",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -1880,7 +1880,7 @@
     },
     {
       "date": "JAN 26",
-      "time": "SUN 18:00",
+      "time": "SUN 6:00 pm",
       "away_team": "SF",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -1892,7 +1892,7 @@
     },
     {
       "date": "JAN 28",
-      "time": "TUE 18:30",
+      "time": "TUE 6:30 pm",
       "away_team": "LV",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -1904,7 +1904,7 @@
     },
     {
       "date": "JAN 29",
-      "time": "WED 17:30",
+      "time": "WED 5:30 pm",
       "away_team": "DAL",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -1916,7 +1916,7 @@
     },
     {
       "date": "JAN 30",
-      "time": "THU 16:30",
+      "time": "THU 4:30 pm",
       "away_team": "WSH",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -1928,7 +1928,7 @@
     },
     {
       "date": "JAN 31",
-      "time": "FRI 17:00",
+      "time": "FRI 5:00 pm",
       "away_team": "VAN",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -1940,7 +1940,7 @@
     },
     {
       "date": "FEB 3",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "ANC",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -1952,7 +1952,7 @@
     },
     {
       "date": "FEB 3",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "LV",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -1964,7 +1964,7 @@
     },
     {
       "date": "FEB 3",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "PHI",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -1976,7 +1976,7 @@
     },
     {
       "date": "FEB 3",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "MON",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -1988,7 +1988,7 @@
     },
     {
       "date": "FEB 3",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "HOU",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -2000,7 +2000,7 @@
     },
     {
       "date": "FEB 3",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "DEN",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -2012,7 +2012,7 @@
     },
     {
       "date": "FEB 11",
-      "time": "TUE 16:50",
+      "time": "TUE 4:50 pm",
       "away_team": "DAL",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -2024,7 +2024,7 @@
     },
     {
       "date": "FEB 14",
-      "time": "FRI 19:30",
+      "time": "FRI 7:30 pm",
       "away_team": "MXC",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -2036,7 +2036,7 @@
     },
     {
       "date": "FEB 15",
-      "time": "SAT 18:00",
+      "time": "SAT 6:00 pm",
       "away_team": "TOR",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -2048,7 +2048,7 @@
     },
     {
       "date": "FEB 21",
-      "time": "FRI 16:30",
+      "time": "FRI 4:30 pm",
       "away_team": "MON",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -2060,7 +2060,7 @@
     },
     {
       "date": "FEB 24",
-      "time": "MON 16:20",
+      "time": "MON 4:20 pm",
       "away_team": "MIN",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -2072,7 +2072,7 @@
     },
     {
       "date": "FEB 28",
-      "time": "FRI 16:00",
+      "time": "FRI 4:00 pm",
       "away_team": "VAN",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -2084,7 +2084,7 @@
     },
     {
       "date": "MAR 1",
-      "time": "SAT 16:30",
+      "time": "SAT 4:30 pm",
       "away_team": "ANC",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -2096,7 +2096,7 @@
     },
     {
       "date": "MAR 8",
-      "time": "SAT 18:20",
+      "time": "SAT 6:20 pm",
       "away_team": "DEN",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -2108,7 +2108,7 @@
     },
     {
       "date": "MAR 14",
-      "time": "FRI 17:00",
+      "time": "FRI 5:00 pm",
       "away_team": "BOS",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -2120,7 +2120,7 @@
     },
     {
       "date": "MAR 15",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "NY",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -2132,7 +2132,7 @@
     },
     {
       "date": "MAR 21",
-      "time": "FRI 17:30",
+      "time": "FRI 5:30 pm",
       "away_team": "LV",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -2144,7 +2144,7 @@
     },
     {
       "date": "MAR 28",
-      "time": "FRI 17:00",
+      "time": "FRI 5:00 pm",
       "away_team": "MXC",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -2156,7 +2156,7 @@
     },
     {
       "date": "MAR 29",
-      "time": "SAT 17:20",
+      "time": "SAT 5:20 pm",
       "away_team": "PHX",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -2168,7 +2168,7 @@
     },
     {
       "date": "APR 2",
-      "time": "WED 17:20",
+      "time": "WED 5:20 pm",
       "away_team": "VAN",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -2180,7 +2180,7 @@
     },
     {
       "date": "APR 3",
-      "time": "THU 17:45",
+      "time": "THU 5:45 pm",
       "away_team": "ANC",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -2192,7 +2192,7 @@
     },
     {
       "date": "APR 4",
-      "time": "FRI 20:00",
+      "time": "FRI 8:00 pm",
       "away_team": "MIN",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -2204,7 +2204,7 @@
     },
     {
       "date": "APR 12",
-      "time": "SAT 18:15",
+      "time": "SAT 6:15 pm",
       "away_team": "OTT",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -2216,7 +2216,7 @@
     },
     {
       "date": "APR 18",
-      "time": "FRI 20:00",
+      "time": "FRI 8:00 pm",
       "away_team": "BOS",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -2228,7 +2228,7 @@
     },
     {
       "date": "APR 18",
-      "time": "FRI 21:00",
+      "time": "FRI 9:00 pm",
       "away_team": "LA",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -2240,7 +2240,7 @@
     },
     {
       "date": "MAY 18",
-      "time": "SUN 17:20",
+      "time": "SUN 5:20 pm",
       "away_team": "HOU",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -2252,7 +2252,7 @@
     },
     {
       "date": "MAY 23",
-      "time": "FRI 08:00",
+      "time": "FRI 8:00 am",
       "away_team": "PHI",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -2264,7 +2264,7 @@
     },
     {
       "date": "MAY 24",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "SF",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -2276,7 +2276,7 @@
     },
     {
       "date": "JUN 7",
-      "time": "SAT 20:30",
+      "time": "SAT 8:30 pm",
       "away_team": "MIA",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -2288,7 +2288,7 @@
     },
     {
       "date": "JUN 9",
-      "time": "MON 22:00",
+      "time": "MON 10:00 pm",
       "away_team": "NY",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -2300,7 +2300,7 @@
     },
     {
       "date": "JUN 10",
-      "time": "TUE 17:15",
+      "time": "TUE 5:15 pm",
       "away_team": "SEA",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -2312,7 +2312,7 @@
     },
     {
       "date": "JUN 11",
-      "time": "WED 17:15",
+      "time": "WED 5:15 pm",
       "away_team": "SEA",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -2324,7 +2324,7 @@
     },
     {
       "date": "JUN 13",
-      "time": "FRI 18:20",
+      "time": "FRI 6:20 pm",
       "away_team": "BOS",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -2336,7 +2336,7 @@
     },
     {
       "date": "JUN 14",
-      "time": "SAT 18:00",
+      "time": "SAT 6:00 pm",
       "away_team": "MIN",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -2348,7 +2348,7 @@
     },
     {
       "date": "JUN 16",
-      "time": "MON 17:00",
+      "time": "MON 5:00 pm",
       "away_team": "LV",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -2360,7 +2360,7 @@
     },
     {
       "date": "JUN 16",
-      "time": "MON 21:00",
+      "time": "MON 9:00 pm",
       "away_team": "SF",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -2372,7 +2372,7 @@
     },
     {
       "date": "JUN 17",
-      "time": "TUE 21:00",
+      "time": "TUE 9:00 pm",
       "away_team": "VAN",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -2384,7 +2384,7 @@
     },
     {
       "date": "JUN 18",
-      "time": "WED 21:00",
+      "time": "WED 9:00 pm",
       "away_team": "TOR",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -2396,7 +2396,7 @@
     },
     {
       "date": "JUN 19",
-      "time": "THU 17:20",
+      "time": "THU 5:20 pm",
       "away_team": "PHI",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -2408,7 +2408,7 @@
     },
     {
       "date": "JUN 20",
-      "time": "FRI 17:50",
+      "time": "FRI 5:50 pm",
       "away_team": "DAL",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -2420,7 +2420,7 @@
     },
     {
       "date": "JUN 21",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "WSH",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -2432,7 +2432,7 @@
     },
     {
       "date": "JUN 24",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "DAL",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -2444,7 +2444,7 @@
     },
     {
       "date": "JUN 24",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "MIA",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -2456,7 +2456,7 @@
     },
     {
       "date": "JUN 24",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "ANC",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -2468,7 +2468,7 @@
     },
     {
       "date": "JUN 24",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "LV",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -2480,7 +2480,7 @@
     },
     {
       "date": "JUN 24",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "BOS",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -2492,7 +2492,7 @@
     },
     {
       "date": "JUN 24",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "SF",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -2504,7 +2504,7 @@
     },
     {
       "date": "JUN 25",
-      "time": "WED 20:20",
+      "time": "WED 8:20 pm",
       "away_team": "PHX",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -2516,7 +2516,7 @@
     },
     {
       "date": "JUN 26",
-      "time": "THU 17:20",
+      "time": "THU 5:20 pm",
       "away_team": "OTT",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -2528,7 +2528,7 @@
     },
     {
       "date": "JUN 27",
-      "time": "FRI 16:30",
+      "time": "FRI 4:30 pm",
       "away_team": "SEA",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -2540,7 +2540,7 @@
     },
     {
       "date": "JUN 29",
-      "time": "SUN 17:00",
+      "time": "SUN 5:00 pm",
       "away_team": "SEA",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -2552,7 +2552,7 @@
     },
     {
       "date": "JUN 30",
-      "time": "MON 18:00",
+      "time": "MON 6:00 pm",
       "away_team": "BOS",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -2564,7 +2564,7 @@
     },
     {
       "date": "JUL 1",
-      "time": "TUE 20:00",
+      "time": "TUE 8:00 pm",
       "away_team": "MXC",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -2576,7 +2576,7 @@
     },
     {
       "date": "JUL 2",
-      "time": "WED 19:00",
+      "time": "WED 7:00 pm",
       "away_team": "SF",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -2588,7 +2588,7 @@
     },
     {
       "date": "JUL 6",
-      "time": "SUN 17:00",
+      "time": "SUN 5:00 pm",
       "away_team": "VAN",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -2600,7 +2600,7 @@
     },
     {
       "date": "JUL 6",
-      "time": "SUN 21:00",
+      "time": "SUN 9:00 pm",
       "away_team": "HOU",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -2612,7 +2612,7 @@
     },
     {
       "date": "JUL 7",
-      "time": "MON 19:30",
+      "time": "MON 7:30 pm",
       "away_team": "LA",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -2624,7 +2624,7 @@
     },
     {
       "date": "JUL 8",
-      "time": "TUE 18:00",
+      "time": "TUE 6:00 pm",
       "away_team": "OTT",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -2636,7 +2636,7 @@
     },
     {
       "date": "JUL 9",
-      "time": "WED 18:00",
+      "time": "WED 6:00 pm",
       "away_team": "TOR",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -2648,7 +2648,7 @@
     },
     {
       "date": "JUL 10",
-      "time": "THU 17:30",
+      "time": "THU 5:30 pm",
       "away_team": "MON",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -2660,7 +2660,7 @@
     },
     {
       "date": "JUL 11",
-      "time": "FRI 21:00",
+      "time": "FRI 9:00 pm",
       "away_team": "DAL",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -2672,7 +2672,7 @@
     },
     {
       "date": "JUL 12",
-      "time": "SAT 19:00",
+      "time": "SAT 7:00 pm",
       "away_team": "LV",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -2684,7 +2684,7 @@
     },
     {
       "date": "JUL 13",
-      "time": "SUN 20:30",
+      "time": "SUN 8:30 pm",
       "away_team": "OTT",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -2696,7 +2696,7 @@
     },
     {
       "date": "JUL 13",
-      "time": "SUN 20:30",
+      "time": "SUN 8:30 pm",
       "away_team": "WSH",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -2708,7 +2708,7 @@
     },
     {
       "date": "JUL 13",
-      "time": "SUN 20:30",
+      "time": "SUN 8:30 pm",
       "away_team": "MIA",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -2720,7 +2720,7 @@
     },
     {
       "date": "JUL 13",
-      "time": "SUN 20:30",
+      "time": "SUN 8:30 pm",
       "away_team": "DEN",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -2732,7 +2732,7 @@
     },
     {
       "date": "JUL 13",
-      "time": "SUN 20:30",
+      "time": "SUN 8:30 pm",
       "away_team": "TOR",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -2744,7 +2744,7 @@
     },
     {
       "date": "JUL 13",
-      "time": "SUN 20:30",
+      "time": "SUN 8:30 pm",
       "away_team": "MXC",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -2756,7 +2756,7 @@
     },
     {
       "date": "JUL 14",
-      "time": "MON 18:30",
+      "time": "MON 6:30 pm",
       "away_team": "LA",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -2768,7 +2768,7 @@
     },
     {
       "date": "JUL 15",
-      "time": "TUE 18:00",
+      "time": "TUE 6:00 pm",
       "away_team": "DAL",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -2780,7 +2780,7 @@
     },
     {
       "date": "JUL 20",
-      "time": "SUN 17:30",
+      "time": "SUN 5:30 pm",
       "away_team": "LEGACY",
       "home_team": "CLASSIC",
       "away_logo": "",
@@ -2792,7 +2792,7 @@
     },
     {
       "date": "JUL 22",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "PHX",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -2804,7 +2804,7 @@
     },
     {
       "date": "JUL 23",
-      "time": "WED 16:30",
+      "time": "WED 4:30 pm",
       "away_team": "MIA",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -2816,7 +2816,7 @@
     },
     {
       "date": "JUL 24",
-      "time": "THU 17:30",
+      "time": "THU 5:30 pm",
       "away_team": "HOU",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -2828,7 +2828,7 @@
     },
     {
       "date": "JUL 25",
-      "time": "FRI 17:30",
+      "time": "FRI 5:30 pm",
       "away_team": "MIN",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -2840,7 +2840,7 @@
     },
     {
       "date": "JUL 26",
-      "time": "SAT 17:00",
+      "time": "SAT 5:00 pm",
       "away_team": "OTT",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -2852,7 +2852,7 @@
     },
     {
       "date": "JUL 28",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "ANC",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/anc.png",
@@ -2864,7 +2864,7 @@
     },
     {
       "date": "JUL 29",
-      "time": "TUE 16:30",
+      "time": "TUE 4:30 pm",
       "away_team": "WSH",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -2876,7 +2876,7 @@
     },
     {
       "date": "JUL 29",
-      "time": "TUE 17:30",
+      "time": "TUE 5:30 pm",
       "away_team": "LV",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -2888,7 +2888,7 @@
     },
     {
       "date": "JUL 29",
-      "time": "TUE 23:30",
+      "time": "TUE 11:30 pm",
       "away_team": "TOR",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -2900,7 +2900,7 @@
     },
     {
       "date": "JUL 30",
-      "time": "WED 16:30",
+      "time": "WED 4:30 pm",
       "away_team": "DAL",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/dal-1.png",
@@ -2912,7 +2912,7 @@
     },
     {
       "date": "JUL 30",
-      "time": "WED 17:00",
+      "time": "WED 5:00 pm",
       "away_team": "DEN",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -2924,7 +2924,7 @@
     },
     {
       "date": "JUL 30",
-      "time": "WED 17:30",
+      "time": "WED 5:30 pm",
       "away_team": "HOU",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -2936,7 +2936,7 @@
     },
     {
       "date": "JUL 31",
-      "time": "THU 17:30",
+      "time": "THU 5:30 pm",
       "away_team": "OTT",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -2948,7 +2948,7 @@
     },
     {
       "date": "AUG 1",
-      "time": "FRI 18:00",
+      "time": "FRI 6:00 pm",
       "away_team": "MIN",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -2960,7 +2960,7 @@
     },
     {
       "date": "AUG 2",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "WSH",
       "home_team": "NY",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -2972,7 +2972,7 @@
     },
     {
       "date": "AUG 2",
-      "time": "SAT 18:30",
+      "time": "SAT 6:30 pm",
       "away_team": "VAN",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -2984,7 +2984,7 @@
     },
     {
       "date": "AUG 3",
-      "time": "SUN 17:30",
+      "time": "SUN 5:30 pm",
       "away_team": "LA",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -2996,7 +2996,7 @@
     },
     {
       "date": "AUG 4",
-      "time": "MON 17:30",
+      "time": "MON 5:30 pm",
       "away_team": "PHI",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -3008,7 +3008,7 @@
     },
     {
       "date": "AUG 5",
-      "time": "TUE 17:30",
+      "time": "TUE 5:30 pm",
       "away_team": "PHI",
       "home_team": "TOR",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -3020,7 +3020,7 @@
     },
     {
       "date": "AUG 6",
-      "time": "WED 17:00",
+      "time": "WED 5:00 pm",
       "away_team": "MON",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -3032,7 +3032,7 @@
     },
     {
       "date": "AUG 7",
-      "time": "THU 17:30",
+      "time": "THU 5:30 pm",
       "away_team": "MXC",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -3044,7 +3044,7 @@
     },
     {
       "date": "AUG 8",
-      "time": "FRI 17:30",
+      "time": "FRI 5:30 pm",
       "away_team": "MIN",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/min-1.png",
@@ -3056,7 +3056,7 @@
     },
     {
       "date": "AUG 9",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "MIA",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
@@ -3068,7 +3068,7 @@
     },
     {
       "date": "AUG 10",
-      "time": "SUN 16:00",
+      "time": "SUN 4:00 pm",
       "away_team": "BOS",
       "home_team": "SEA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/bos.png",
@@ -3080,7 +3080,7 @@
     },
     {
       "date": "AUG 12",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "NY",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -3092,7 +3092,7 @@
     },
     {
       "date": "AUG 12",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "OTT",
       "home_team": "LA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ott-1.png",
@@ -3104,7 +3104,7 @@
     },
     {
       "date": "AUG 12",
-      "time": "TUE 17:00",
+      "time": "TUE 5:00 pm",
       "away_team": "PHX",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -3116,7 +3116,7 @@
     },
     {
       "date": "AUG 14",
-      "time": "THU 17:30",
+      "time": "THU 5:30 pm",
       "away_team": "SF",
       "home_team": "DEN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -3128,7 +3128,7 @@
     },
     {
       "date": "AUG 15",
-      "time": "FRI 18:00",
+      "time": "FRI 6:00 pm",
       "away_team": "PHI",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -3140,7 +3140,7 @@
     },
     {
       "date": "AUG 17",
-      "time": "SUN 18:00",
+      "time": "SUN 6:00 pm",
       "away_team": "PHI",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phi-1.png",
@@ -3152,7 +3152,7 @@
     },
     {
       "date": "AUG 18",
-      "time": "MON 18:30",
+      "time": "MON 6:30 pm",
       "away_team": "TOR",
       "home_team": "MON",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -3164,7 +3164,7 @@
     },
     {
       "date": "AUG 19",
-      "time": "TUE 17:30",
+      "time": "TUE 5:30 pm",
       "away_team": "WSH",
       "home_team": "MIA",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
@@ -3176,7 +3176,7 @@
     },
     {
       "date": "AUG 21",
-      "time": "THU 17:40",
+      "time": "THU 5:40 pm",
       "away_team": "MXC",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mxc-1.png",
@@ -3188,7 +3188,7 @@
     },
     {
       "date": "AUG 22",
-      "time": "FRI 18:00",
+      "time": "FRI 6:00 pm",
       "away_team": "VAN",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/vancouver-whalers-1.png",
@@ -3200,7 +3200,7 @@
     },
     {
       "date": "AUG 23",
-      "time": "SAT 18:00",
+      "time": "SAT 6:00 pm",
       "away_team": "HOU",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -3212,7 +3212,7 @@
     },
     {
       "date": "AUG 25",
-      "time": "MON 18:00",
+      "time": "MON 6:00 pm",
       "away_team": "DEN",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -3224,7 +3224,7 @@
     },
     {
       "date": "AUG 26",
-      "time": "TUE 17:30",
+      "time": "TUE 5:30 pm",
       "away_team": "LV",
       "home_team": "SF",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
@@ -3236,7 +3236,7 @@
     },
     {
       "date": "AUG 27",
-      "time": "WED 17:00",
+      "time": "WED 5:00 pm",
       "away_team": "NY",
       "home_team": "PHX",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -3248,7 +3248,7 @@
     },
     {
       "date": "AUG 29",
-      "time": "FRI 18:15",
+      "time": "FRI 6:15 pm",
       "away_team": "MON",
       "home_team": "BOS",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mon-1.png",
@@ -3260,7 +3260,7 @@
     },
     {
       "date": "AUG 30",
-      "time": "SAT 17:30",
+      "time": "SAT 5:30 pm",
       "away_team": "DEN",
       "home_team": "PHI",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/den-1.png",
@@ -3272,7 +3272,7 @@
     },
     {
       "date": "AUG 30",
-      "time": "SAT 18:15",
+      "time": "SAT 6:15 pm",
       "away_team": "HOU",
       "home_team": "DAL",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
@@ -3284,7 +3284,7 @@
     },
     {
       "date": "AUG 31",
-      "time": "SUN 16:00",
+      "time": "SUN 4:00 pm",
       "away_team": "TOR",
       "home_team": "MXC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
@@ -3296,7 +3296,7 @@
     },
     {
       "date": "SEP 13",
-      "time": "SAT 19:30",
+      "time": "SAT 7:30 pm",
       "away_team": "NY",
       "home_team": "ANC",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/ny-1.png",
@@ -3308,7 +3308,7 @@
     },
     {
       "date": "SEP 13",
-      "time": "SAT 19:30",
+      "time": "SAT 7:30 pm",
       "away_team": "PHX",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/phx.png",
@@ -3320,7 +3320,7 @@
     },
     {
       "date": "SEP 13",
-      "time": "SAT 19:30",
+      "time": "SAT 7:30 pm",
       "away_team": "LA",
       "home_team": "MIN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
@@ -3332,7 +3332,7 @@
     },
     {
       "date": "SEP 13",
-      "time": "SAT 19:30",
+      "time": "SAT 7:30 pm",
       "away_team": "SF",
       "home_team": "OTT",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sf.png",
@@ -3344,7 +3344,7 @@
     },
     {
       "date": "SEP 13",
-      "time": "SAT 19:30",
+      "time": "SAT 7:30 pm",
       "away_team": "SEA",
       "home_team": "VAN",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/sea-1.png",
@@ -3356,7 +3356,7 @@
     },
     {
       "date": "SEP 13",
-      "time": "SAT 19:30",
+      "time": "SAT 7:30 pm",
       "away_team": "MIA",
       "home_team": "LV",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/mia-1.png",
