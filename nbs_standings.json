@@ -5,7 +5,7 @@
         "rank": "1",
         "team": "Washington Monuments",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-        "record": "2-0",
+        "record": "3-0",
         "pct": "1.000",
         "gb": "0"
       },
@@ -15,7 +15,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
         "record": "2-1",
         "pct": ".667",
-        "gb": "0.5"
+        "gb": "1"
       },
       {
         "rank": "3",
@@ -23,7 +23,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
         "record": "1-1",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "4",
@@ -31,7 +31,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
         "record": "1-1",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "5",
@@ -39,7 +39,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
         "record": "1-1",
         "pct": ".500",
-        "gb": "1"
+        "gb": "1.5"
       },
       {
         "rank": "6",
@@ -47,7 +47,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
         "record": "0-4",
         "pct": ".000",
-        "gb": "3"
+        "gb": "3.5"
       }
     ],
     [
@@ -95,9 +95,9 @@
         "rank": "6",
         "team": "Los Angeles Lowriders",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-        "record": "0-2",
+        "record": "0-3",
         "pct": ".000",
-        "gb": "2.5"
+        "gb": "3"
       }
     ]
   ],
