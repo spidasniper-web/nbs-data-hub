@@ -5,8 +5,8 @@
         "rank": "1",
         "team": "Washington Monuments",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-        "record": "3-1",
-        "pct": ".750",
+        "record": "3-2",
+        "pct": ".600",
         "gb": "0"
       },
       {
@@ -15,7 +15,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
         "record": "3-2",
         "pct": ".600",
-        "gb": "0.5"
+        "gb": "0"
       },
       {
         "rank": "3",
@@ -23,7 +23,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
         "record": "4-4",
         "pct": ".500",
-        "gb": "1"
+        "gb": "0.5"
       },
       {
         "rank": "4",
@@ -31,7 +31,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
         "record": "3-3",
         "pct": ".500",
-        "gb": "1"
+        "gb": "0.5"
       },
       {
         "rank": "5",
@@ -39,7 +39,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
         "record": "2-4",
         "pct": ".333",
-        "gb": "2"
+        "gb": "1.5"
       },
       {
         "rank": "6",
@@ -47,7 +47,7 @@
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
         "record": "2-5",
         "pct": ".286",
-        "gb": "2.5"
+        "gb": "2"
       }
     ],
     [
@@ -71,9 +71,9 @@
         "rank": "3",
         "team": "Las Vegas Blue Chips",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/lv-1.png",
-        "record": "2-2",
-        "pct": ".500",
-        "gb": "3"
+        "record": "3-2",
+        "pct": ".600",
+        "gb": "2.5"
       },
       {
         "rank": "4",
