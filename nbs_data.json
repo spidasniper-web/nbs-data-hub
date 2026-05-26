@@ -505,40 +505,40 @@
       "status": "Final"
     },
     {
-      "date": "",
-      "time": "",
-      "away_team": "LA",
-      "home_team": "STO",
-      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
-      "away_score": "0",
-      "home_score": "0",
-      "post_url": "",
-      "status": ""
-    },
-    {
-      "date": "",
-      "time": "",
+      "date": "MAY 15",
+      "time": "FRI 6:20 pm",
       "away_team": "MIN",
       "home_team": "WSH",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
       "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/wsh.png",
-      "away_score": "0",
-      "home_score": "0",
-      "post_url": "",
-      "status": ""
+      "away_score": "99",
+      "home_score": "85",
+      "post_url": "https://nbsleague.wordpress.com/2026/05/15/2026-nbs-regular-season-gameday-10-minneapolis-icefangs-vs-washington-monuments/",
+      "status": "Final"
     },
     {
-      "date": "",
-      "time": "",
+      "date": "MAY 15",
+      "time": "FRI 8:50 pm",
       "away_team": "GS",
       "home_team": "HOU",
       "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/gs.png",
       "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/hou-1.png",
-      "away_score": "0",
-      "home_score": "0",
-      "post_url": "",
-      "status": ""
+      "away_score": "120",
+      "home_score": "112",
+      "post_url": "https://nbsleague.wordpress.com/2026/05/15/2026-nbs-regular-season-gameday-10-golden-state-vantas-vs-houston-apollos/",
+      "status": "Final"
+    },
+    {
+      "date": "MAY 19",
+      "time": "TUE 11:30 am",
+      "away_team": "LA",
+      "home_team": "STO",
+      "away_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
+      "home_logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
+      "away_score": "115",
+      "home_score": "92",
+      "post_url": "https://nbsleague.wordpress.com/2026/05/19/2026-nbs-regular-season-gameday-10-los-angeles-lowriders-vs-stockholm-glaciers/",
+      "status": "Final"
     },
     {
       "date": "",
