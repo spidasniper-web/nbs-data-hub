@@ -27,14 +27,6 @@
       },
       {
         "rank": "4",
-        "team": "Stockholm Glaciers",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
-        "record": "4-5",
-        "pct": ".444",
-        "gb": "2"
-      },
-      {
-        "rank": "5",
         "team": "Boston Clovers",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/bos-e1750058435488.png",
         "record": "4-5",
@@ -42,12 +34,20 @@
         "gb": "2"
       },
       {
+        "rank": "5",
+        "team": "Stockholm Glaciers",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/08/sto.png",
+        "record": "4-6",
+        "pct": ".400",
+        "gb": "2.5"
+      },
+      {
         "rank": "6",
         "team": "Toronto Raccoons",
         "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/tor-1.png",
-        "record": "2-7",
-        "pct": ".222",
-        "gb": "4"
+        "record": "3-7",
+        "pct": ".300",
+        "gb": "3.5"
       }
     ],
     [
