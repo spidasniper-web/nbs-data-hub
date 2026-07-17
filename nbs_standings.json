@@ -3,19 +3,19 @@
     [
       {
         "rank": "1",
-        "team": "Minneapolis Icefangs",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
+        "team": "Philadelphia Liberty",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
         "record": "6-3",
         "pct": ".667",
         "gb": "0"
       },
       {
         "rank": "2",
-        "team": "Philadelphia Liberty",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/phi-1.png",
-        "record": "6-3",
-        "pct": ".667",
-        "gb": "0"
+        "team": "Minneapolis Icefangs",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/06/min-e1749806861579.png",
+        "record": "6-4",
+        "pct": ".600",
+        "gb": "0.5"
       },
       {
         "rank": "3",
@@ -77,19 +77,19 @@
       },
       {
         "rank": "4",
-        "team": "Denver Peaks",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
+        "team": "Los Angeles Lowriders",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
         "record": "5-5",
         "pct": ".500",
         "gb": "2"
       },
       {
         "rank": "5",
-        "team": "Los Angeles Lowriders",
-        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2024/08/la-1.png",
-        "record": "4-5",
-        "pct": ".444",
-        "gb": "2.5"
+        "team": "Denver Peaks",
+        "logo": "https://nbsleague.wordpress.com/wp-content/uploads/2025/07/den-1.png",
+        "record": "5-5",
+        "pct": ".500",
+        "gb": "2"
       },
       {
         "rank": "6",
